@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="verb_form_4_same_0_translate">воздерживаться</string>
+    <string name="verb_form_4_same_2_translate">подавлять</string>
+
+    <string name="verb_form_5_same_0_translate">запугивать</string>
+
+    <string name="verb_form_6_same_0_translate">не подходить</string>
+
+    <string name="verb_form_10_same_1_translate">разгибать</string>
+
+    <string name="verb_form_13_same_0_translate">освобождать</string>
+
+    <string name="verb_form_16_same_0_translate">раздувать</string>
+
+    <string name="verb_form_17_same_0_translate">вспыхивать,появлятся,разрыватся</string>
+    <string name="verb_form_17_same_1_translate">повторно разбивать</string>
+
+    <string name="verb_form_21_same_0_translate">надстраивать,застраивать</string>
+    <string name="verb_form_21_same_1_translate">перестраивать</string>
+
+    <!--<string name="verb_form_24">buy,bought,bought</string>-->
+    <string name="verb_form_24_same_1_translate">"покупать слишком много"</string>
+    <string name="verb_form_24_same_2_translate">"покупать ниже стоимости"</string>
+
+    <string name="verb_form_26_same_0_translate">вещать,распостранять</string>
+    <string name="verb_form_26_same_2_translate">прогнозировать,предсказывать</string>
+    <string name="verb_form_26_same_3_translate">"неправильно распределять роли"</string>
+    <string name="verb_form_26_same_4_translate">покрывать,закрывать</string>
+    <string name="verb_form_26_same_7_translate">переделывать,перестраивать</string>
+    <string name="verb_form_26_same_9_translate">"вещать по телевизору"</string>
+    <string name="verb_form_26_same_10_translate">"давать подходящую роль"</string>
+
+    <string name="verb_form_30_same_1_translate">раздевать</string>
+
+    <string name="verb_form_31_same_0_translate">преодолевать</string>
+
+    <string name="verb_form_34_same_4_translate">перекроить</string>
+    <string name="verb_form_34_same_5_translate">"подрезать,сбивать цену"</string>
+
+    <!--<string name="verb_form_36">deal,dealt,dealt</string>-->
+    <string name="verb_form_36_same_0_translate">"поступать неправильно"</string>
+    <string name="verb_form_36_same_1_translate">пересдавать</string>
+
+    <string name="verb_form_38_same_1_translate">"поступать неправильно"</string>
+    <string name="verb_form_38_same_2_translate">преодолевать</string>
+    <string name="verb_form_38_same_3_translate">переусердствовать,переборщить</string>
+    <string name="verb_form_38_same_4_translate">переделывать</string>
+    <string name="verb_form_38_same_5_translate">аннулировать</string>
+    <string name="verb_form_38_same_6_translate">недоделывать</string>
+
+    <string name="verb_form_39_same_0_translate">"привлекать к себе больше внимания"</string>
+    <string name="verb_form_39_same_1_translate">преувеличивать</string>
+    <string name="verb_form_39_same_2_translate">перерисовать</string>
+    <string name="verb_form_39_same_4_translate">выводить,удалить</string>
+
+    <string name="verb_form_41_same_1_translate">перепить</string>
+
+    <string name="verb_form_42_same_0_translate">обгонять</string>
+    <string name="verb_form_42_same_1_translate">заганять,переутомлять</string>
+
+    <string name="verb_form_44_same_0_translate">переесть</string>
+    <string name="verb_form_44_same_1_translate">недоесть</string>
+
+    <string name="verb_form_45_same_0_translate">происходить,случатся</string>
+
+    <string name="verb_form_46_same_0_translate">кормить грудью</string>
+    <string name="verb_form_46_same_1_translate">комить насильно</string>
+    <string name="verb_form_46_same_2_translate">кормить из рук</string>
+    <string name="verb_form_46_same_4_translate">перекармливать</string>
+    <string name="verb_form_46_same_6_translate">кормить из ложки</string>
+    <string name="verb_form_46_same_7_translate">недоедать,недокармливать</string>
+
+
+    <string name="verb_form_53_same_0_translate">"вылетать,обгонять в полете"</string>
+    <string name="verb_form_53_same_1_translate">"перелетать,лететь дальше"</string>
+
+    <string name="verb_form_60_same_0_translate">"быстро замораживать"</string>
+    <string name="verb_form_60_same_1_translate">"повторно заморозить"</string>
+    <string name="verb_form_60_same_2_translate">размораживать</string>
+
+    <string name="verb_form_61_same_0_translate">порождать</string>
+
+    <string name="verb_form_63_same_0_translate">прощать</string>
+    <string name="verb_form_63_same_1_translate">"давать осечку,внушать опасения"</string>
+
+    <string name="verb_form_64_same_1_translate">отказываться</string>
+    <string name="verb_form_64_same_2_translate">отказываться</string>
+    <string name="verb_form_64_same_4_translate">подвергаться</string>
+
+    <string name="verb_form_66_same_0_translate">перерастать</string>
+    <string name="verb_form_66_same_1_translate">зарастать,перерастать</string>
+
+    <string name="verb_form_67_same_0_translate">нависать</string>
+
+    <string name="verb_form_69_same_0_translate">ослышаться</string>
+    <string name="verb_form_69_same_1_translate">подслушивать</string>
+
+    <string name="verb_form_72_same_0_translate">созерцать</string>
+    <string name="verb_form_72_same_3_translate">поддерживать</string>
+    <string name="verb_form_72_same_4_translate">удерживать</string>
+
+    <string name="verb_form_77_same_1_translate">предвидеть</string>
+
+    <string name="verb_form_78_same_3_translate">вкладывать</string>
+    <string name="verb_form_78_same_4_translate">прослоить</string>
+    <string name="verb_form_78_same_5_translate">заложить,терять</string>
+    <string name="verb_form_78_same_7_translate">тратить</string>
+    <string name="verb_form_78_same_8_translate">перекрывать,покрывать</string>
+    <string name="verb_form_78_same_9_translate">перекладывать</string>
+    <string name="verb_form_78_same_10_translate">подкладывать</string>
+    <string name="verb_form_78_same_13_translate">подстерегать</string>
+
+    <string name="verb_form_79_same_3_translate">"вводить в заблуждение"</string>
+
+    <string name="verb_form_81_same_3_translate">перескакивать,перепрыгивать</string>
+
+    <string name="verb_form_82_same_2_translate">переучиваться</string>
+    <string name="verb_form_82_same_3_translate">отучиться,разучиваться</string>
+
+    <string name="verb_form_85_same_1_translate">"передавать в субаренду"</string>
+    <string name="verb_form_85_same_2_translate">"передавать в субаренду"</string>
+
+    <string name="verb_form_86_same_2_translate">"лежать на"</string>
+    <string name="verb_form_86_same_3_translate">"лежать в основе"</string>
+
+    <string name="verb_form_87_same_0_translate">подсвечивать</string>
+    <string name="verb_form_87_same_2_translate">"снова зажечь,снова загореться"</string>
+
+    <string name="verb_form_89_same_0_translate">переделывать</string>
+    <string name="verb_form_89_same_1_translate">разрушать</string>
+
+    <string name="verb_form_93_same_0_translate">переплачивать</string>
+    <string name="verb_form_93_same_1_translate">"платить вперед"</string>
+    <string name="verb_form_93_same_2_translate">погашать,возвращать,возмещать</string>
+    <string name="verb_form_93_same_3_translate">недоплачивать</string>
+
+    <string name="verb_form_95_same_0_translate">вводить</string>
+    <string name="verb_form_95_same_1_translate">выводить</string>
+
+    <string name="verb_form_97_same_1_translate">"читать по губам"</string>
+    <string name="verb_form_97_same_2_translate">"прочитать неправильно,неправильно истолковывать"</string>
+    <string name="verb_form_97_same_3_translate">"читать корректуру"</string>
+    <string name="verb_form_97_same_4_translate">перечитывать</string>
+    <string name="verb_form_97_same_5_translate">"читать с листа"</string>
+
+    <string name="verb_form_101_same_0_translate">опережать,обгонять</string>
+
+
+    <string name="verb_form_103_same_0_translate">возникать</string>
+    <string name="verb_form_103_same_1_translate">подниматься,восставать</string>
+
+    <string name="verb_form_104_same_0_translate">предвещать</string>
+    <string name="verb_form_104_same_1_translate">опережать,перегонять</string>
+    <string name="verb_form_104_same_3_translate">перезапускать</string>
+
+    <string name="verb_form_106_same_1_translate">отрицать,противоречить</string>
+
+    <string name="verb_form_107_same_1_translate">предвидеть</string>
+    <string name="verb_form_107_same_3_translate">наблюдать,надзирать</string>
+    <string name="verb_form_107_same_4_translate">осмотреть</string>
+
+    <string name="verb_form_109_same_0_translate">"хорошо продаватся"</string>
+    <string name="verb_form_109_same_1_translate">"продавать сверх своих запасов"</string>
+    <string name="verb_form_109_same_2_translate">перепродавать</string>
+    <string name="verb_form_109_same_3_translate">"продавать ниже стоимости"</string>
+
+    <string name="verb_form_110_same_1_translate">"повторно отправить"</string>
+
+    <string name="verb_form_111_same_0_translate">осаждать,окружать</string>
+    <string name="verb_form_111_same_1_translate">"набирать вручную(чей-то телефон)"</string>
+    <string name="verb_form_111_same_2_translate">вставлять,вкладывать</string>
+    <string name="verb_form_111_same_4_translate">смещать,компенсировать</string>
+    <string name="verb_form_111_same_5_translate">опрокидывать</string>
+    <string name="verb_form_111_same_6_translate">"устанавливать заранее"</string>
+    <string name="verb_form_111_same_7_translate">"вновь устанавливать"</string>
+    <string name="verb_form_111_same_8_translate">расстраивать,нарушать</string>
+
+
+    <string name="verb_form_112_same_1_translate">надшивать</string>
+
+    <string name="verb_form_117_same_1_translate">затмевать</string>
+
+    <string name="verb_form_119_same_1_translate">промахиваться</string>
+    <string name="verb_form_119_same_2_translate">переснять</string>
+    <string name="verb_form_119_same_3_translate">"стрелять с недолетом"</string>
+
+    <string name="verb_form_120_same_0_translate">предсказывать</string>
+
+    <string name="verb_form_125_same_0_translate">"присматривать за ребенком"</string>
+
+    <string name="verb_form_127_same_0_translate">проспать</string>
+
+    <string name="verb_form_128_same_0_translate">отступать</string>
+
+    <!--<string name="verb_form_136">spell,spelt,spelt</string>-->
+    <string name="verb_form_136_same_0_translate">"делать орфографические ошибки"</string>
+
+    <!--<string name="verb_form_137">spend,spent,spent</string>-->
+    <string name="verb_form_137_same_1_translate">"зря тратить деньги"</string>
+    <string name="verb_form_137_same_2_translate">перерасходовать</string>
+    <string name="verb_form_137_same_3_translate">"сорить деньгами"</string>
+
+    <!--<string name="verb_form_145">stand,stood,stood</string>-->
+    <string name="verb_form_145_same_1_translate">"неправильно понять"</string>
+    <string name="verb_form_145_same_2_translate">over</string>
+    <string name="verb_form_145_same_3_translate">понимать</string>
+    <string name="verb_form_145_same_5_translate">выдерживать</string>
+
+    <!--<string name="verb_form_150">stride,strode,stridden</string>-->
+    <string name="verb_form_150_same_0_translate">перешагивать</string>
+
+    <!--<string name="verb_form_155">swear,swore,sworn</string>-->
+    <string name="verb_form_155_same_0_translate">зарекаться</string>
+
+    <!--<string name="verb_form_156">sweep,swept,swept</string>-->
+    <string name="verb_form_156_same_0_translate">зачесывать</string>
+
+    <!--<string name="verb_form_160">take,took,taken</string>-->
+    <string name="verb_form_160_same_0_translate">прибегать</string>
+    <string name="verb_form_160_same_2_translate">заблуждаться</string>
+    <string name="verb_form_160_same_3_translate">догонять,настигать</string>
+    <string name="verb_form_160_same_4_translate">"принимать участие"</string>
+    <string name="verb_form_160_same_5_translate">пересдавать</string>
+    <string name="verb_form_160_same_6_translate">предпринимать</string>
+
+    <!--<string name="verb_form_163">tell,told,told</string>-->
+    <string name="verb_form_163_same_0_translate">предсказывать</string>
+    <string name="verb_form_163_same_1_translate">пересказывать</string>
+
+    <!--<string name="verb_form_164">think,thought,thought</string>-->
+    <string name="verb_form_164_same_0_translate">перехитрить</string>
+    <string name="verb_form_164_same_1_translate">пересмотреть</string>
+
+    <!--<string name="verb_form_166">throw,threw,thrown</string>-->
+    <string name="verb_form_166_same_1_translate">выбрасывать</string>
+    <string name="verb_form_166_same_2_translate">свергать</string>
+    <string name="verb_form_166_same_4_translate">"бросок вверх"</string>
+
+    <!--<string name="verb_form_167">thrust,thrust,thrust</string>-->
+    <string name="verb_form_167_same_0_translate">выбрасывать</string>
+
+    <!--<string name="verb_form_172">wake,woke,woken</string>-->
+    <string name="verb_form_172_same_0_translate">просыпаться</string>
+
+    <!--<string name="verb_form_173">wear,wore,worn</string>-->
+    <string name="verb_form_173_same_1_translate">изнашивать</string>
+
+    <!--<string name="verb_form_174">weave,wove,woven</string>-->
+    <string name="verb_form_174_same_0_translate">вплетать</string>
+    <string name="verb_form_174_same_1_translate">расплетать</string>
+
+    <!--<string name="verb_form_182">write,wrote,written</string>-->
+    <string name="verb_form_182_same_3_translate">переписывать</string>
+    <string name="verb_form_182_same_4_translate">переписывать</string>
+    <string name="verb_form_182_same_5_translate">гарантировать,подписываться</string>
+
+</resources>

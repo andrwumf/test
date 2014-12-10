@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="13dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Irregular verbs rap"
+        android:textSize="25dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="listen"
+        android:drawableRight="@drawable/ic_action_volume_on"
+        android:textSize="25dp"
+        android:onClick="onClickIrregularRapVolume" />
+
+    <TextView
+        android:id="@+id/story"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="left|top"
+        android:text="Hello1"
+        android:textSize="20dp"
+        android:scrollbars="vertical"
+        android:scrollbarStyle="insideOverlay"
+        android:fadeScrollbars="true"
+        android:fadingEdge="vertical" />
+
+</LinearLayout>

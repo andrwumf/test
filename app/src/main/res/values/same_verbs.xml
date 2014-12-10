@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="verb_form_4_same_0">for</string>
+    <string name="verb_form_4_same_2">over</string>
+
+    <string name="verb_form_5_same_0">brow</string>
+
+    <string name="verb_form_6_same_0">mis</string>
+
+    <string name="verb_form_10_same_1">un</string>
+
+    <string name="verb_form_13_same_0">un</string>
+
+    <string name="verb_form_16_same_0">over</string>
+
+    <string name="verb_form_17_same_0">out</string>
+    <string name="verb_form_17_same_1">re</string>
+
+    <string name="verb_form_21_same_0">over</string>
+    <string name="verb_form_21_same_1">re</string>
+
+    <!--<string name="verb_form_24">buy,bought,bought</string>-->
+    <string name="verb_form_24_same_1">over</string>
+    <string name="verb_form_24_same_2">under</string>
+
+    <string name="verb_form_26_same_0">broad</string>
+    <string name="verb_form_26_same_2">fore</string>
+    <string name="verb_form_26_same_3">mis</string>
+    <string name="verb_form_26_same_4">over</string>
+    <string name="verb_form_26_same_7">re</string>
+    <string name="verb_form_26_same_9">tele</string>
+    <string name="verb_form_26_same_10">type</string>
+
+    <string name="verb_form_30_same_1">un</string>
+
+    <string name="verb_form_31_same_0">over</string>
+
+    <string name="verb_form_34_same_4">re</string>
+    <string name="verb_form_34_same_5">under</string>
+
+    <!--<string name="verb_form_36">deal,dealt,dealt</string>-->
+    <string name="verb_form_36_same_0">mis</string>
+    <string name="verb_form_36_same_1">re</string>
+
+    <string name="verb_form_38_same_1">mis</string>
+    <string name="verb_form_38_same_2">out</string>
+    <string name="verb_form_38_same_3">over</string>
+    <string name="verb_form_38_same_4">re</string>
+    <string name="verb_form_38_same_5">un</string>
+    <string name="verb_form_38_same_6">under</string>
+
+    <string name="verb_form_39_same_0">out</string>
+    <string name="verb_form_39_same_1">over</string>
+    <string name="verb_form_39_same_2">re</string>
+    <string name="verb_form_39_same_4">with</string>
+
+    <string name="verb_form_41_same_1">over</string>
+
+    <string name="verb_form_42_same_0">out</string>
+    <string name="verb_form_42_same_1">over</string>
+
+    <string name="verb_form_44_same_0">over</string>
+    <string name="verb_form_44_same_1">under</string>
+
+    <string name="verb_form_45_same_0">be</string>
+
+    <string name="verb_form_46_same_0">breast</string>
+    <string name="verb_form_46_same_1">force-</string>
+    <string name="verb_form_46_same_2">hand-</string>
+    <string name="verb_form_46_same_4">over</string>
+    <string name="verb_form_46_same_6">spoon</string>
+    <string name="verb_form_46_same_7">under</string>
+
+    <string name="verb_form_53_same_0">out</string>
+    <string name="verb_form_53_same_1">over</string>
+
+    <string name="verb_form_60_same_0">quick-</string>
+    <string name="verb_form_60_same_1">re</string>
+    <string name="verb_form_60_same_2">un</string>
+
+    <string name="verb_form_61_same_0">beget,begat,begotten</string>
+
+    <string name="verb_form_63_same_0">for</string>
+    <string name="verb_form_63_same_1">mis</string>
+
+    <string name="verb_form_64_same_1">fore</string>
+    <string name="verb_form_64_same_2">for</string>
+    <string name="verb_form_64_same_4">under</string>
+
+    <string name="verb_form_66_same_0">out</string>
+    <string name="verb_form_66_same_1">over</string>
+
+    <string name="verb_form_67_same_0">over</string>
+
+    <string name="verb_form_69_same_0">mis</string>
+    <string name="verb_form_69_same_1">over</string>
+
+    <string name="verb_form_72_same_0">be</string>
+    <string name="verb_form_72_same_3">up</string>
+    <string name="verb_form_72_same_4">with</string>
+
+    <string name="verb_form_77_same_1">fore</string>
+
+    <string name="verb_form_78_same_3">in</string>
+    <string name="verb_form_78_same_4">inter</string>
+    <string name="verb_form_78_same_5">mis</string>
+    <string name="verb_form_78_same_7">out</string>
+    <string name="verb_form_78_same_8">over</string>
+    <string name="verb_form_78_same_9">re-</string>
+    <string name="verb_form_78_same_10">under</string>
+    <string name="verb_form_78_same_13">way</string>
+
+    <string name="verb_form_79_same_3">mis</string>
+
+    <string name="verb_form_81_same_3">over</string>
+
+    <string name="verb_form_82_same_2">re</string>
+    <string name="verb_form_82_same_3">un</string>
+
+    <string name="verb_form_85_same_1">sub</string>
+    <string name="verb_form_85_same_2">under</string>
+
+    <string name="verb_form_86_same_2">over</string>
+    <string name="verb_form_86_same_3">under</string>
+
+    <string name="verb_form_87_same_0">back</string>
+    <string name="verb_form_87_same_2">re</string>
+
+    <string name="verb_form_89_same_0">re</string>
+    <string name="verb_form_89_same_1">un</string>
+
+    <string name="verb_form_93_same_0">over</string>
+    <string name="verb_form_93_same_1">pre</string>
+    <string name="verb_form_93_same_2">re</string>
+    <string name="verb_form_93_same_3">under</string>
+
+    <string name="verb_form_95_same_0">in</string>
+    <string name="verb_form_95_same_1">out</string>
+
+    <string name="verb_form_97_same_1">lip</string>
+    <string name="verb_form_97_same_2">mis</string>
+    <string name="verb_form_97_same_3">proof</string>
+    <string name="verb_form_97_same_4">re</string>
+    <string name="verb_form_97_same_5">sight-</string>
+
+    <string name="verb_form_101_same_0">out</string>
+
+    <string name="verb_form_103_same_0">a</string>
+    <string name="verb_form_103_same_1">up</string>
+
+    <string name="verb_form_104_same_0">fore</string>
+    <string name="verb_form_104_same_1">out</string>
+    <string name="verb_form_104_same_3">re</string>
+
+    <string name="verb_form_106_same_1">gain</string>
+
+    <string name="verb_form_107_same_1">fore</string>
+    <string name="verb_form_107_same_3">over</string>
+    <string name="verb_form_107_same_4">sight</string>
+
+    <string name="verb_form_109_same_0">out</string>
+    <string name="verb_form_109_same_1">over</string>
+    <string name="verb_form_109_same_2">re</string>
+    <string name="verb_form_109_same_3">under</string>
+
+    <string name="verb_form_110_same_1">re</string>
+
+    <string name="verb_form_111_same_0">be</string>
+    <string name="verb_form_111_same_1">hand</string>
+    <string name="verb_form_111_same_2">in</string>
+    <string name="verb_form_111_same_4">off</string>
+    <string name="verb_form_111_same_5">over</string>
+    <string name="verb_form_111_same_6">pre</string>
+    <string name="verb_form_111_same_7">re</string>
+    <string name="verb_form_111_same_8">up</string>
+
+    <string name="verb_form_112_same_1">over</string>
+
+    <string name="verb_form_117_same_1">out</string>
+
+    <string name="verb_form_119_same_1">over</string>
+    <string name="verb_form_119_same_2">re</string>
+    <string name="verb_form_119_same_3">under</string>
+
+    <string name="verb_form_120_same_0">fore</string>
+
+    <string name="verb_form_125_same_0">baby</string>
+
+    <string name="verb_form_127_same_0">over</string>
+
+    <string name="verb_form_128_same_0">back</string>
+
+    <!--<string name="verb_form_136">spell,spelt,spelt</string>-->
+    <string name="verb_form_136_same_0">mis</string>
+
+    <!--<string name="verb_form_137">spend,spent,spent</string>-->
+    <string name="verb_form_137_same_1">mis</string>
+    <string name="verb_form_137_same_2">out</string>
+    <string name="verb_form_137_same_3">over</string>
+
+    <!--<string name="verb_form_145">stand,stood,stood</string>-->
+    <string name="verb_form_145_same_1">misunder</string>
+    <string name="verb_form_145_same_2">over</string>
+    <string name="verb_form_145_same_3">under</string>
+    <string name="verb_form_145_same_5">with</string>
+
+    <!--<string name="verb_form_150">stride,strode,stridden</string>-->
+    <string name="verb_form_150_same_0">be</string>
+
+
+
+    <!--<string name="verb_form_155">swear,swore,sworn</string>-->
+    <string name="verb_form_155_same_0">for</string>
+
+    <!--<string name="verb_form_156">sweep,swept,swept</string>-->
+    <string name="verb_form_156_same_0">up</string>
+
+    <!--<string name="verb_form_160">take,took,taken</string>-->
+    <string name="verb_form_160_same_0">be</string>
+    <string name="verb_form_160_same_2">mis</string>
+    <string name="verb_form_160_same_3">over</string>
+    <string name="verb_form_160_same_4">par</string>
+    <string name="verb_form_160_same_5">re</string>
+    <string name="verb_form_160_same_6">under</string>
+
+    <!--<string name="verb_form_163">tell,told,told</string>-->
+    <string name="verb_form_163_same_0">fore</string>
+    <string name="verb_form_163_same_1">re</string>
+
+    <!--<string name="verb_form_164">think,thought,thought</string>-->
+    <string name="verb_form_164_same_0">out</string>
+    <string name="verb_form_164_same_1">re</string>
+
+    <!--<string name="verb_form_166">throw,threw,thrown</string>-->
+    <string name="verb_form_166_same_1">out</string>
+    <string name="verb_form_166_same_2">over</string>
+    <string name="verb_form_166_same_4">up</string>
+
+    <!--<string name="verb_form_167">thrust,thrust,thrust</string>-->
+    <string name="verb_form_167_same_0">out</string>
+
+    <!--<string name="verb_form_172">wake,woke,woken</string>-->
+    <string name="verb_form_172_same_0">a</string>
+
+    <!--<string name="verb_form_173">wear,wore,worn</string>-->
+    <string name="verb_form_173_same_1">out</string>
+
+    <!--<string name="verb_form_174">weave,wove,woven</string>-->
+    <string name="verb_form_174_same_0">inter</string>
+    <string name="verb_form_174_same_1">un</string>
+
+    <!--<string name="verb_form_182">write,wrote,written</string>-->
+    <string name="verb_form_182_same_3">over</string>
+    <string name="verb_form_182_same_4">re</string>
+    <string name="verb_form_182_same_5">under</string>
+
+</resources>

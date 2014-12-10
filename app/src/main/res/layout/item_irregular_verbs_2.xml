@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_irregular_verb_height"
+    android:gravity="center"
+    android:background="@android:color/transparent"
+    android:orientation="horizontal"
+    android:paddingRight="1dp"
+    android:paddingLeft="1dp" >
+
+    <LinearLayout
+        android:id="@+id/inner_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_white"
+        android:baselineAligned="false"
+        android:divider="?android:dividerVertical"
+        android:dividerPadding="8dp"
+        android:orientation="horizontal"
+        android:showDividers="middle"
+        tools:ignore="NewApi">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <com.template.mlevytskiy.ui.widget.PopularWordView
+                android:id="@+id/popular_word_view"
+                android:layout_width="10dp"
+                android:layout_height="match_parent" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_marginBottom="1px"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginTop="1px"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/form1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="form1"
+                    android:textColor="@android:color/black"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/form2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="form2"
+                    android:textColor="#785AB6"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/form3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="form3"
+                    android:textColor="#785AB6"
+                    android:textSize="18dp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/translate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_weight="1.1"
+            android:text="translate"
+            android:textColor="@android:color/black"
+            android:textSize="20dp" />
+
+        <ImageButton
+            android:id="@+id/volume_image_button"
+            style="?android:borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:contentDescription="звук"
+            android:onClick="onClickVolumeImageButton"
+            android:src="@drawable/ic_action_volume_on" />
+
+    </LinearLayout>
+
+</LinearLayout>

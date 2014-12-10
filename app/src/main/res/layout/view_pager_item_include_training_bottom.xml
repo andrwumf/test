@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RelativeLayout
+        android:id="@+id/main_activity_root"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/irregular_card_height"
+        android:background="@android:color/transparent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_turn_2"
+            android:alpha=".90"
+            android:layout_alignParentRight="true"
+            android:paddingRight="5dp" />
+
+        <LinearLayout
+            android:id="@+id/main_activity_card_face"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/border_1"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/form1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Hello1"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/form2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Hello1"
+                android:textSize="25dp"
+                android:textColor="@color/form2_color" />
+
+            <TextView
+                android:id="@+id/form3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Hello1"
+                android:textSize="25dp"
+                android:textColor="@color/form2_color" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/main_activity_card_back"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/border_2"
+            android:clickable="true"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/translate"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Hello2"
+                android:textSize="25dp" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <ImageButton
+        android:id="@+id/volume_image_button"
+        style="?android:borderlessButtonStyle"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:contentDescription="звук"
+        android:src="@drawable/ic_action_volume_on" />
+
+</merge>

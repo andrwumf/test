@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="3dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="-10dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_learn"
+            android:paddingBottom="6dp" />
+
+        <Spinner
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/spinner"
+            android:layout_marginLeft="-8dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="top" >
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+
+        <com.template.mlevytskiy.ui.widget.SquareRelativeLayout
+            android:id="@+id/main_activity_root"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:layout_marginTop="18dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:onClick="onClickCards" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_turn"
+                android:layout_alignParentRight="true"
+                android:alpha="0.3"
+                android:paddingRight="5dp" />
+
+            <LinearLayout
+                android:id="@+id/main_activity_card_face"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:layout_centerInParent="true"
+                android:background="@drawable/border_4" >
+
+                <ImageView
+                    android:id="@+id/image_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_cards"
+                    android:alpha="0.22"/>
+
+                <TextView
+                    android:id="@+id/text_view_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:text="@string/cards" />
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/main_activity_card_back"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:background="@drawable/border_4"
+                android:gravity="center">
+
+                <ImageButton
+                    android:id="@+id/image_button_result_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_result"
+                    android:background="@drawable/apptheme_btn_default_holo_light"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_margin="10dp" />
+
+                <ImageButton
+                    android:id="@+id/image_button_start_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_start"
+                    android:background="@drawable/apptheme_btn_default_holo_light"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:onClick="onClickCardsTrainingStart"
+                    android:layout_margin="10dp" />
+
+                <ImageButton
+                    android:id="@+id/image_button_start_center_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_start"
+                    android:background="@drawable/apptheme_btn_default_holo_light"
+                    android:layout_centerInParent="true"
+                    android:onClick="onClickCardsTrainingStart"
+                    android:layout_margin="10dp"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+        </com.template.mlevytskiy.ui.widget.SquareRelativeLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+
+
+        <com.template.mlevytskiy.ui.widget.SquareRelativeLayout
+            android:id="@+id/main_activity_root_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:layout_marginTop="18dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:onClick="onClickCards" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_turn"
+                android:layout_alignParentRight="true"
+                android:alpha="0.3"
+                android:paddingRight="5dp" />
+
+            <LinearLayout
+                android:id="@+id/main_activity_card_face_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:layout_centerInParent="true"
+                android:background="@drawable/border_4" >
+
+                <ImageView
+                    android:id="@+id/image_view_write_word"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_edit"
+                    android:alpha="0.22"/>
+
+                <TextView
+                    android:id="@+id/text_view_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:text="@string/enter_the_word" />
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/main_activity_card_back_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:background="@drawable/border_4"
+                android:gravity="center">
+
+                <ImageButton
+                    android:id="@+id/image_button_result_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_result"
+                    android:background="@drawable/apptheme_btn_default_holo_light"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_margin="10dp" />
+
+                <ImageButton
+                    android:id="@+id/image_button_start_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_start"
+                    android:background="@drawable/apptheme_btn_default_holo_light"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="10dp"
+                    android:onClick="onClickWriteWordTrainingStart" />
+
+                <ImageButton
+                    android:id="@+id/image_button_start_center_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_start"
+                    android:background="@drawable/apptheme_btn_default_holo_light"
+                    android:layout_centerInParent="true"
+                    android:layout_margin="10dp"
+                    android:visibility="gone"
+                    android:onClick="onClickWriteWordTrainingStart" />
+
+            </RelativeLayout>
+
+        </com.template.mlevytskiy.ui.widget.SquareRelativeLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1" />
+
+    </LinearLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="popular_word_view">
+        <attr name="criteria" format="enum" >
+            <enum name="normal" value="0"/>
+            <enum name="more" value="1"/>
+            <enum name="less" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>

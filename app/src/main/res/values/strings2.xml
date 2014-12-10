@@ -1,0 +1,22 @@
+<resources>
+    <string name="choice_only">"Select only..."</string>
+    <string name="frequently_used_words">"Frequently used words"</string>
+    <string name="less_frequently_used_words">"Less frequently used words"</string>
+    <string name="rarely_used_words">"Rarely used words"</string>
+    <string name="a20words">"20 words"</string>
+    <string name="a50words">"50 words"</string>
+    <string name="a100_words">"100 words"</string>
+    <string name="cards">"Cards"</string>
+    <string name="enter_the_word">"Enter the word"</string>
+    <string name="exit">"Exit"</string>
+    <string name="next_word">"Next word"</string>
+
+    <string-array name="word_lists_for_learn_array">
+        <item> "20 most used" </item>
+        <item> "50 most used" </item>
+        <item> "100 most frequently used" </item>
+        <item> "all the words except the rarely used" </item>     
+        <item> "all words" </item>
+    </string-array>
+
+</resources>

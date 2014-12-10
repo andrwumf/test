@@ -1,0 +1,82 @@
+apply plugin: 'com.android.application'
+apply plugin: 'hugo'
+apply plugin: 'android-test'
+
+android {
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/DEPENDENCIES'
+    }
+
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 21
+        versionCode 6
+        versionName "1.05"
+        testPackageName "com.template.mlevytskiy.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+        testHandleProfiling true
+        testFunctionalTest true
+    }
+
+    signingConfigs {
+        debug {
+        }
+
+        myConfig {
+            storeFile file("keystore.jks")
+            storePassword "u6senatoru7"
+            keyAlias "mlevytskiy"
+            keyPassword "u6senatoru7"
+        }
+    }
+
+    testOptions {
+        resultsDir = "$project.buildDir/foo/results"
+        reportDir = "$project.buildDir/foo/report"
+    }
+
+    buildTypes {
+        debug {
+            runProguard false
+        }
+
+        release {
+            runProguard false
+            debuggable false
+            signingConfig signingConfigs.myConfig
+        }
+    }
+
+    productFlavors {
+        paid {
+
+        }
+        free {
+            packageName "irregular.verbs.free"
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:+'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'commons-io:commons-io:2.2@jar'
+    compile 'com.android.support:support-v4:+@jar'
+    compile 'commons-lang:commons-lang:2.3@jar'
+    compile 'eu.inmite.android.lib:android-styled-dialogs:+@aar'
+    compile 'com.nineoldandroids:library:2.4.0'
+    androidTestCompile 'com.google.guava:guava:+'
+}

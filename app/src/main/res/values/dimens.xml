@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_height">67dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <dimen name="item_irregular_verb_padding">15dp</dimen>
+    <dimen name="item_irregular_verb_height">90dp</dimen>
+    <dimen name="training_fragment_same_irregular_verb_height">60dp</dimen>
+    <dimen name="irregular_card_height">180dp</dimen>
+
+</resources>

@@ -1,0 +1,464 @@
+<resources>
+
+    <string name="verb_form_4_same_0_translate">"to forbear"</string>
+    <string name="verb_form_4_same_2_translate">"to overbear"</string>
+
+    <string name="verb_form_5_same_0_translate">"to browbeat"</string>
+
+    <string name="verb_form_6_same_0_translate">"to misbecome"</string>
+
+    <string name="verb_form_10_same_1_translate">"to unbend"</string>
+
+    <string name="verb_form_13_same_0_translate">"to unbind"</string>
+
+    <string name="verb_form_16_same_0_translate">"to overblow"</string>
+
+    <string name="verb_form_17_same_0_translate">"to outbreak"</string>
+    <string name="verb_form_17_same_1_translate">"to rebreak"</string>
+
+    <string name="verb_form_21_same_0_translate">"to overbuild"</string>
+    <string name="verb_form_21_same_1_translate">"to rebuild"</string>
+
+    <!--<string name="verb_form_24">buy,bought,bought</string>-->
+    <string name="verb_form_24_same_1_translate">"to overbuy"</string>
+    <string name="verb_form_24_same_2_translate">"to underbuy"</string>
+
+    <string name="verb_form_26_same_0_translate">"to broadcast"</string>
+    <string name="verb_form_26_same_2_translate">"to forecast"</string>
+    <string name="verb_form_26_same_3_translate">"to miscast"</string>
+    <string name="verb_form_26_same_4_translate">"to overcast"</string>
+    <string name="verb_form_26_same_7_translate">"to recast"</string>
+    <string name="verb_form_26_same_9_translate">"to telecast"</string>
+    <string name="verb_form_26_same_10_translate">"to typecast"</string>
+
+    <string name="verb_form_30_same_1_translate">"to unclothe"</string>
+
+    <string name="verb_form_31_same_0_translate">"to overcome"</string>
+
+    <string name="verb_form_34_same_4_translate">"to recut"</string>
+    <string name="verb_form_34_same_5_translate">"to undercut"</string>
+
+    <!--<string name="verb_form_36">deal,dealt,dealt</string>-->
+    <string name="verb_form_36_same_0_translate">"to misdeal"</string>
+    <string name="verb_form_36_same_1_translate">"to redeal"</string>
+
+    <string name="verb_form_38_same_1_translate">"to misdo"</string>
+    <string name="verb_form_38_same_2_translate">"to outdo"</string>
+    <string name="verb_form_38_same_3_translate">"to overdo"</string>
+    <string name="verb_form_38_same_4_translate">"to redo"</string>
+    <string name="verb_form_38_same_5_translate">"to undo"</string>
+    <string name="verb_form_38_same_6_translate">"to underdo"</string>
+
+    <string name="verb_form_39_same_0_translate">"to outdraw"</string>
+    <string name="verb_form_39_same_1_translate">"to overdraw"</string>
+    <string name="verb_form_39_same_2_translate">"to redraw"</string>
+    <string name="verb_form_39_same_4_translate">"to withdraw"</string>
+
+    <string name="verb_form_41_same_1_translate">"to overdrink"</string>
+
+    <string name="verb_form_42_same_0_translate">"to outdrive"</string>
+    <string name="verb_form_42_same_1_translate">"to overdrive"</string>
+
+    <string name="verb_form_44_same_0_translate">"to overeat"</string>
+    <string name="verb_form_44_same_1_translate">"to undereat"</string>
+
+    <string name="verb_form_45_same_0_translate">"to befall"</string>
+
+    <string name="verb_form_46_same_0_translate">"to breastfeed"</string>
+    <string name="verb_form_46_same_1_translate">"to force-feed"</string>
+    <string name="verb_form_46_same_2_translate">"to hand-feed"</string>
+    <string name="verb_form_46_same_4_translate">"to overfeed"</string>
+    <string name="verb_form_46_same_6_translate">"to spoonfeed"</string>
+    <string name="verb_form_46_same_7_translate">"to underfeed"</string>
+
+
+    <string name="verb_form_53_same_0_translate">"to outfly"</string>
+    <string name="verb_form_53_same_1_translate">"to overfly"</string>
+
+    <string name="verb_form_60_same_0_translate">"to quick-freeze"</string>
+    <string name="verb_form_60_same_1_translate">"to refreeze"</string>
+    <string name="verb_form_60_same_2_translate">"to unfreeze"</string>
+
+    <string name="verb_form_61_same_0_translate">"to beget"</string>
+
+    <string name="verb_form_63_same_0_translate">"to forgive"</string>
+    <string name="verb_form_63_same_1_translate">"to misgive"</string>
+
+    <string name="verb_form_64_same_1_translate">"to forego"</string>
+    <string name="verb_form_64_same_2_translate">"to forgo"</string>
+    <string name="verb_form_64_same_4_translate">"to undergo"</string>
+
+    <string name="verb_form_66_same_0_translate">"to outgrow"</string>
+    <string name="verb_form_66_same_1_translate">"to overgrow"</string>
+
+    <string name="verb_form_67_same_0_translate">"to overhang"</string>
+
+    <string name="verb_form_69_same_0_translate">"to mishear"</string>
+    <string name="verb_form_69_same_1_translate">"to overhear"</string>
+
+    <string name="verb_form_72_same_0_translate">"to behold"</string>
+    <string name="verb_form_72_same_3_translate">"to uphold"</string>
+    <string name="verb_form_72_same_4_translate">"to withhold"</string>
+
+    <string name="verb_form_77_same_1_translate">"to foreknow"</string>
+
+    <string name="verb_form_78_same_3_translate">"to inlay"</string>
+    <string name="verb_form_78_same_4_translate">"to interlay"</string>
+    <string name="verb_form_78_same_5_translate">"to mislay"</string>
+    <string name="verb_form_78_same_7_translate">"to outlay"</string>
+    <string name="verb_form_78_same_8_translate">"to overlay"</string>
+    <string name="verb_form_78_same_9_translate">"to re-lay"</string>
+    <string name="verb_form_78_same_10_translate">"to underlay"</string>
+    <string name="verb_form_78_same_13_translate">"to waylay"</string>
+
+    <string name="verb_form_79_same_3_translate">"to mislead"</string>
+
+    <string name="verb_form_81_same_3_translate">"to overleap"</string>
+
+    <string name="verb_form_82_same_2_translate">"to relearn"</string>
+    <string name="verb_form_82_same_3_translate">"to unlearn"</string>
+
+    <string name="verb_form_85_same_1_translate">"to sublet"</string>
+    <string name="verb_form_85_same_2_translate">"to underlet"</string>
+
+    <string name="verb_form_86_same_2_translate">"to overlie"</string>
+    <string name="verb_form_86_same_3_translate">"to underlie"</string>
+
+    <string name="verb_form_87_same_0_translate">"to backlight"</string>
+    <string name="verb_form_87_same_2_translate">"to relight"</string>
+
+    <string name="verb_form_89_same_0_translate">"to remake"</string>
+    <string name="verb_form_89_same_1_translate">"to unmake"</string>
+
+    <string name="verb_form_93_same_0_translate">"to overpay"</string>
+    <string name="verb_form_93_same_1_translate">"to prepay"</string>
+    <string name="verb_form_93_same_2_translate">"to repay"</string>
+    <string name="verb_form_93_same_3_translate">"to underpay"</string>
+
+    <string name="verb_form_95_same_0_translate">"to input"</string>
+    <string name="verb_form_95_same_1_translate">"to output"</string>
+
+    <string name="verb_form_97_same_1_translate">"to lipread"</string>
+    <string name="verb_form_97_same_2_translate">"to misread"</string>
+    <string name="verb_form_97_same_3_translate">"to proofread"</string>
+    <string name="verb_form_97_same_4_translate">"to reread"</string>
+    <string name="verb_form_97_same_5_translate">"to sight-read"</string>
+
+    <string name="verb_form_101_same_0_translate">"to outride"</string>
+
+
+    <string name="verb_form_103_same_0_translate">"to arise"</string>
+    <string name="verb_form_103_same_1_translate">"to uprise"</string>
+
+    <string name="verb_form_104_same_0_translate">"to forerun"</string>
+    <string name="verb_form_104_same_1_translate">"to outrun"</string>
+    <string name="verb_form_104_same_3_translate">"to rerun"</string>
+
+    <string name="verb_form_106_same_1_translate">"to gainsay"</string>
+
+    <string name="verb_form_107_same_1_translate">"to foresee"</string>
+    <string name="verb_form_107_same_3_translate">"to oversee"</string>
+    <string name="verb_form_107_same_4_translate">"to sightsee"</string>
+
+    <string name="verb_form_109_same_0_translate">"to outsell"</string>
+    <string name="verb_form_109_same_1_translate">"to oversell"</string>
+    <string name="verb_form_109_same_2_translate">"to resell"</string>
+    <string name="verb_form_109_same_3_translate">"to undersell"</string>
+
+    <string name="verb_form_110_same_1_translate">"to resend"</string>
+
+    <string name="verb_form_111_same_0_translate">"to beset"</string>
+    <string name="verb_form_111_same_1_translate">"to handset"</string>
+    <string name="verb_form_111_same_2_translate">"to inset"</string>
+    <string name="verb_form_111_same_4_translate">"to offset"</string>
+    <string name="verb_form_111_same_5_translate">"to overset"</string>
+    <string name="verb_form_111_same_6_translate">"to preset"</string>
+    <string name="verb_form_111_same_7_translate">"to reset"</string>
+    <string name="verb_form_111_same_8_translate">"to upset"</string>
+
+
+    <string name="verb_form_112_same_1_translate">"to oversew"</string>
+
+    <string name="verb_form_117_same_1_translate">"to outshine"</string>
+
+    <string name="verb_form_119_same_1_translate">"to overshoot"</string>
+    <string name="verb_form_119_same_2_translate">"to reshoot"</string>
+    <string name="verb_form_119_same_3_translate">"to undershoot"</string>
+
+    <string name="verb_form_120_same_0_translate">"to foreshow"</string>
+
+    <string name="verb_form_125_same_0_translate">"to babysit"</string>
+
+    <string name="verb_form_127_same_0_translate">"to oversleep"</string>
+
+    <string name="verb_form_128_same_0_translate">"to backslide"</string>
+
+    <!--<string name="verb_form_136">spell,spelt,spelt</string>-->
+    <string name="verb_form_136_same_0_translate">"to misspell"</string>
+
+    <!--<string name="verb_form_137">spend,spent,spent</string>-->
+    <string name="verb_form_137_same_1_translate">"to misspend"</string>
+    <string name="verb_form_137_same_2_translate">"to outspend"</string>
+    <string name="verb_form_137_same_3_translate">"to overspend"</string>
+
+    <!--<string name="verb_form_145">stand,stood,stood</string>-->
+    <string name="verb_form_145_same_1_translate">"to misunderstand"</string>
+    <string name="verb_form_145_same_2_translate">"to overstand"</string>
+    <string name="verb_form_145_same_3_translate">"to understand"</string>
+    <string name="verb_form_145_same_5_translate">"to withstand"</string>
+
+    <!--<string name="verb_form_150">stride,strode,stridden</string>-->
+    <string name="verb_form_150_same_0_translate">"to bestride"</string>
+
+    <!--<string name="verb_form_155">swear,swore,sworn</string>-->
+    <string name="verb_form_155_same_0_translate">"to forswear"</string>
+
+    <!--<string name="verb_form_156">sweep,swept,swept</string>-->
+    <string name="verb_form_156_same_0_translate">"to upsweep"</string>
+
+    <!--<string name="verb_form_160">take,took,taken</string>-->
+    <string name="verb_form_160_same_0_translate">"to betake"</string>
+    <string name="verb_form_160_same_2_translate">"to mistake"</string>
+    <string name="verb_form_160_same_3_translate">"to overtake"</string>
+    <string name="verb_form_160_same_4_translate">"to partake"</string>
+    <string name="verb_form_160_same_5_translate">"to retake"</string>
+    <string name="verb_form_160_same_6_translate">"to undertake"</string>
+
+    <!--<string name="verb_form_163">tell,told,told</string>-->
+    <string name="verb_form_163_same_0_translate">"to foretell"</string>
+    <string name="verb_form_163_same_1_translate">"to retell"</string>
+
+    <!--<string name="verb_form_164">think,thought,thought</string>-->
+    <string name="verb_form_164_same_0_translate">"to outthink"</string>
+    <string name="verb_form_164_same_1_translate">"to rethink"</string>
+
+    <!--<string name="verb_form_166">throw,threw,thrown</string>-->
+    <string name="verb_form_166_same_1_translate">"to outthrow"</string>
+    <string name="verb_form_166_same_2_translate">"to overthrow"</string>
+    <string name="verb_form_166_same_4_translate">"to upthrow"</string>
+
+    <!--<string name="verb_form_167">thrust,thrust,thrust</string>-->
+    <string name="verb_form_167_same_0_translate">"to outthrust"</string>
+
+    <!--<string name="verb_form_172">wake,woke,woken</string>-->
+    <string name="verb_form_172_same_0_translate">"to awake"</string>
+
+    <!--<string name="verb_form_173">wear,wore,worn</string>-->
+    <string name="verb_form_173_same_1_translate">"to outwear"</string>
+
+    <!--<string name="verb_form_174">weave,wove,woven</string>-->
+    <string name="verb_form_174_same_0_translate">"to interweave"</string>
+    <string name="verb_form_174_same_1_translate">"to unweave"</string>
+
+    <!--<string name="verb_form_182">write,wrote,written</string>-->
+    <string name="verb_form_182_same_3_translate">"to overwrite"</string>
+    <string name="verb_form_182_same_4_translate">"to rewrite"</string>
+    <string name="verb_form_182_same_5_translate">"to underwrite"</string>
+
+    <string name="verb_name_0">to abide</string>
+    <string name="verb_name_1">to arise</string>
+    <string name="verb_name_2">to awake</string>
+    <string name="verb_name_3">to be</string>
+    <string name="verb_name_4">to bear</string>
+    <string name="verb_name_5">to beat</string>
+    <string name="verb_name_6">to become</string>
+    <string name="verb_name_7">to befall</string>
+    <string name="verb_name_8">to begin</string>
+    <string name="verb_name_9">to behold</string>
+    <string name="verb_name_10">to bend</string>
+    <string name="verb_name_11">to bet</string>
+    <string name="verb_name_12">to bid</string>
+    <string name="verb_name_13">to bind</string>
+    <string name="verb_name_14">to bite</string>
+    <string name="verb_name_15">to bleed</string>
+    <string name="verb_name_16">to blow</string>
+    <string name="verb_name_17">to break</string>
+    <string name="verb_name_18">to breed</string>
+    <string name="verb_name_19">to bring</string>
+    <string name="verb_name_20">to broadcast</string>
+    <string name="verb_name_21">to build</string>
+    <string name="verb_name_22">to burn</string>
+    <string name="verb_name_23">to burst</string>
+    <string name="verb_name_24">to buy</string>
+    <string name="verb_name_25">to can</string>
+    <string name="verb_name_26">to cast</string>
+    <string name="verb_name_27">to catch</string>
+    <string name="verb_name_28">to choose</string>
+    <string name="verb_name_29">to cling</string>
+    <string name="verb_name_30">to clothe</string>
+    <string name="verb_name_31">to come</string>
+    <string name="verb_name_32">to cost</string>
+    <string name="verb_name_33">to creep</string>
+    <string name="verb_name_34">to cut</string>
+    <string name="verb_name_35">to dare</string>
+    <string name="verb_name_36">to deal</string>
+    <string name="verb_name_37">to dig</string>
+    <string name="verb_name_38">to do</string>
+    <string name="verb_name_39">to draw</string>
+    <string name="verb_name_40">to dream</string>
+    <string name="verb_name_41">to drink</string>
+    <string name="verb_name_42">to drive</string>
+    <string name="verb_name_43">to dwell</string>
+    <string name="verb_name_44">to eat</string>
+    <string name="verb_name_45">to fall</string>
+    <string name="verb_name_46">to feed</string>
+    <string name="verb_name_47">to feel</string>
+    <string name="verb_name_48">to fight</string>
+    <string name="verb_name_49">to find</string>
+    <string name="verb_name_50">to fit</string>
+    <string name="verb_name_51">to flee</string>
+    <string name="verb_name_52">to fling</string>
+    <string name="verb_name_53">to fly</string>
+    <string name="verb_name_54">to forbear</string>
+    <string name="verb_name_55">to forbid</string>
+    <string name="verb_name_56">to forget</string>
+    <string name="verb_name_57">to forgive</string>
+    <string name="verb_name_58">to forsake</string>
+    <string name="verb_name_59">to forswear</string>
+    <string name="verb_name_60">to freeze</string>
+    <string name="verb_name_61">to get</string>
+    <string name="verb_name_62">to gild</string>
+    <string name="verb_name_63">to give</string>
+    <string name="verb_name_64">to go</string>
+    <string name="verb_name_65">to grind</string>
+    <string name="verb_name_66">to grow</string>
+    <string name="verb_name_67">to hang</string>
+    <string name="verb_name_68">to have</string>
+    <string name="verb_name_69">to hear</string>
+    <string name="verb_name_70">to hide</string>
+    <string name="verb_name_71">to hit</string>
+    <string name="verb_name_72">to hold</string>
+    <string name="verb_name_73">to hurt</string>
+    <string name="verb_name_74">to keep</string>
+    <string name="verb_name_75">to kneel</string>
+    <string name="verb_name_76">to knit</string>
+    <string name="verb_name_77">to know</string>
+    <string name="verb_name_78">to lay</string>
+    <string name="verb_name_79">to lead</string>
+    <string name="verb_name_80">to lean</string>
+    <string name="verb_name_81">to leap</string>
+    <string name="verb_name_82">to learn</string>
+    <string name="verb_name_83">to leave</string>
+    <string name="verb_name_84">to lend</string>
+    <string name="verb_name_85">to let</string>
+    <string name="verb_name_86">to lie</string>
+    <string name="verb_name_87">to light</string>
+    <string name="verb_name_88">to lose</string>
+    <string name="verb_name_89">to make</string>
+    <string name="verb_name_90">to mean</string>
+    <string name="verb_name_91">to meet</string>
+    <string name="verb_name_92">to mow</string>
+    <string name="verb_name_93">to pay</string>
+    <string name="verb_name_94">to prove</string>
+    <string name="verb_name_95">to put</string>
+    <string name="verb_name_96">to quit</string>
+    <string name="verb_name_97">to read</string>
+    <string name="verb_name_98">to rend</string>
+    <string name="verb_name_99">to reset</string>
+    <string name="verb_name_100">to rid</string>
+    <string name="verb_name_101">to ride</string>
+    <string name="verb_name_102">to ring</string>
+    <string name="verb_name_103">to rise</string>
+    <string name="verb_name_104">to run</string>
+    <string name="verb_name_105">to saw</string>
+    <string name="verb_name_106">to say</string>
+    <string name="verb_name_107">to see</string>
+    <string name="verb_name_108">to seek</string>
+    <string name="verb_name_109">to sell</string>
+    <string name="verb_name_110">to send</string>
+    <string name="verb_name_111">to set</string>
+    <string name="verb_name_112">to sew</string>
+    <string name="verb_name_113">to shake</string>
+    <string name="verb_name_114">to shave</string>
+    <string name="verb_name_115">to shear</string>
+    <string name="verb_name_116">to shed</string>
+    <string name="verb_name_117">to shine</string>
+    <string name="verb_name_118">to shoe</string>
+    <string name="verb_name_119">to shoot</string>
+    <string name="verb_name_120">to show</string>
+    <string name="verb_name_121">to shrink</string>
+    <string name="verb_name_122">to shut</string>
+    <string name="verb_name_123">to sing</string>
+    <string name="verb_name_124">to sink</string>
+    <string name="verb_name_125">to sit</string>
+    <string name="verb_name_126">to slay</string>
+    <string name="verb_name_127">to sleep</string>
+    <string name="verb_name_128">to slide</string>
+    <string name="verb_name_129">to sling</string>
+    <string name="verb_name_130">to slink</string>
+    <string name="verb_name_131">to smell</string>
+    <string name="verb_name_132">to smite</string>
+    <string name="verb_name_133">to sow</string>
+    <string name="verb_name_134">to speak</string>
+    <string name="verb_name_135">to speed</string>
+    <string name="verb_name_136">to spell</string>
+    <string name="verb_name_137">to spend</string>
+    <string name="verb_name_138">to spill</string>
+    <string name="verb_name_139">to spin</string>
+    <string name="verb_name_140">to spit</string>
+    <string name="verb_name_141">to split</string>
+    <string name="verb_name_142">to spoil</string>
+    <string name="verb_name_143">to spread</string>
+    <string name="verb_name_144">to spring</string>
+    <string name="verb_name_145">to stand</string>
+    <string name="verb_name_146">to steal</string>
+    <string name="verb_name_147">to stick</string>
+    <string name="verb_name_148">to sting</string>
+    <string name="verb_name_149">to stink</string>
+    <string name="verb_name_150">to stride</string>
+    <string name="verb_name_151">to strike</string>
+    <string name="verb_name_152">to string</string>
+    <string name="verb_name_153">to strive</string>
+    <string name="verb_name_154">to sublet</string>
+    <string name="verb_name_155">to swear</string>
+    <string name="verb_name_156">to sweep</string>
+    <string name="verb_name_157">to swell</string>
+    <string name="verb_name_158">to swim</string>
+    <string name="verb_name_159">to swing</string>
+    <string name="verb_name_160">to take</string>
+    <string name="verb_name_161">to teach</string>
+    <string name="verb_name_162">to tear</string>
+    <string name="verb_name_163">to tell</string>
+    <string name="verb_name_164">to think</string>
+    <string name="verb_name_165">to thrive</string>
+    <string name="verb_name_166">to throw</string>
+    <string name="verb_name_167">to thrust</string>
+    <string name="verb_name_168">to tread</string>
+    <string name="verb_name_169">to understand</string>
+    <string name="verb_name_170">to undertake</string>
+    <string name="verb_name_171">to upset</string>
+    <string name="verb_name_172">to wake</string>
+    <string name="verb_name_173">to wear</string>
+    <string name="verb_name_174">to weave</string>
+    <string name="verb_name_175">to wed</string>
+    <string name="verb_name_176">to weep</string>
+    <string name="verb_name_177">to wet</string>
+    <string name="verb_name_178">to win</string>
+    <string name="verb_name_179">to wind</string>
+    <string name="verb_name_180">to withdraw</string>
+    <string name="verb_name_181">to wring</string>
+    <string name="verb_name_182">to write</string>
+
+    <string name="verb_name_183">"to beget"</string>
+    <string name="verb_name_184">"to beseech"</string>
+    <string name="verb_name_185">"to bet"</string>
+    <string name="verb_name_186">"to beware"</string>
+    <string name="verb_name_187">"to bless"</string>
+    <string name="verb_name_189">"to cleave"</string>
+    <string name="verb_name_197">"to hew"</string>
+    <string name="verb_name_200">"to lade"</string>
+    <string name="verb_name_208">"to plead"</string>
+    <string name="verb_name_216">"to slit"</string>
+    <string name="verb_name_217">"to sneak"</string>
+
+    <string name="app_name">Irregular verbs in English</string>
+    <string-array name="rivers">
+        <item >Wordlist</item>
+        <item >Training</item>
+        <item >Settings</item>
+    </string-array>
+    <string name="choise_verb_for_training">Choose words for training</string>
+    <string name="cancel">Cancel</string>
+    <string name="all_words">All words (183 words)</string>
+    <string name="only_often_met_words">Only the most commonly used. (49 words)</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Los verbos irregulares en Inglés"</string>
+    <string-array name="rivers">
+        <item>"Lista de palabras"</item>
+        <item>"Formación"</item>
+        <item>"Configuración"</item>
+    </string-array>
+    <string name="choise_verb_for_training">"Escoja palabras para la formación"</string>
+    <string name="cancel">"Cancelar"</string>
+
+    <string name="all_words">Todas las palabras (183 palabras)</string>
+    <string name="only_often_met_words">Sólo los más comúnmente utilizados. (49 palabras)</string>
+
+</resources>

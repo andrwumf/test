@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.template.mlevytskiy.ui.widget.PagerContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pager_container"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_irregular_verb_height"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp" >
+
+    <com.template.mlevytskiy.ui.widget.CustomViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="@dimen/item_irregular_verb_padding"
+        android:layout_marginRight="@dimen/item_irregular_verb_padding"
+        android:keepScreenOn="true" />
+
+</com.template.mlevytskiy.ui.widget.PagerContainer>

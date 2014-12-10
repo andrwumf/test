@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linear_layout"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_3"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="-10dp"
+        android:gravity="left|center"
+        android:paddingLeft="12dp"
+        android:text="Выберите сложность:"
+        android:textColor="@android:color/black"
+        android:textSize="18dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#FFDBDBDB" />
+
+    <TextView
+        android:id="@+id/easy"
+        style="?android:borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:gravity="left|center"
+        android:paddingLeft="12dp"
+        android:text="Легко"
+        android:textColor="@android:color/black"
+        android:textSize="18dp"
+        android:drawableRight="@drawable/ic_level_green" />
+
+    <TextView
+        android:id="@+id/normal"
+        style="?android:borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="-10dp"
+        android:clickable="true"
+        android:gravity="left|center"
+        android:paddingLeft="12dp"
+        android:text="Нормально"
+        android:textColor="@android:color/black"
+        android:textSize="18dp"
+        android:drawableRight="@drawable/ic_level_yellow" />
+
+    <TextView
+        android:id="@+id/hard"
+        style="?android:borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="-10dp"
+        android:clickable="true"
+        android:gravity="left|center"
+        android:paddingLeft="12dp"
+        android:text="Тяжело"
+        android:textColor="@android:color/black"
+        android:textSize="18dp"
+        android:drawableRight="@drawable/ic_level_red" />
+</LinearLayout>
+
+

@@ -1,0 +1,258 @@
+<resources>
+
+    <string name="verb_form_4_same_0_translate">"s'abstenir de"</string>
+    <string name="verb_form_4_same_2_translate">"supprimer"</string>
+
+    <string name="verb_form_5_same_0_translate">"tyran"</string>
+
+    <string name="verb_form_6_same_0_translate">"ne convient pas"</string>
+
+    <string name="verb_form_10_same_1_translate">"déplier"</string>
+
+    <string name="verb_form_13_same_0_translate">"libération"</string>
+
+    <string name="verb_form_16_same_0_translate">"gonfler"</string>
+
+    <string name="verb_form_17_same_0_translate">"chasse, apparaissant"</string>
+    <string name="verb_form_17_same_1_translate">"les sauts"</string>
+
+    <string name="verb_form_21_same_0_translate">"construire, construire"</string>
+    <string name="verb_form_21_same_1_translate">"reconstruire"</string>
+
+    <!--<string name="verb_form_24">buy,bought,bought</string>-->
+    <string name="verb_form_24_same_1_translate">"acheter trop"</string>
+    <string name="verb_form_24_same_2_translate">"underbuy"</string>
+
+    <string name="verb_form_26_same_0_translate">"diffusion, redistribuer"</string>
+    <string name="verb_form_26_same_2_translate">"anticiper, prévoir"</string>
+    <string name="verb_form_26_same_3_translate">"fiasco"</string>
+    <string name="verb_form_26_same_4_translate">"couverture, près"</string>
+    <string name="verb_form_26_same_7_translate">"remodeler, reconstruire"</string>
+    <string name="verb_form_26_same_9_translate">"diffusé à la télévision"</string>
+    <string name="verb_form_26_same_10_translate">"cataloguer"</string>
+
+    <string name="verb_form_30_same_1_translate">"se déshabiller"</string>
+
+    <string name="verb_form_31_same_0_translate">"surmonter"</string>
+
+    <string name="verb_form_34_same_4_translate">"remake"</string>
+    <string name="verb_form_34_same_5_translate">"pruneau underbid"</string>
+
+    <!--<string name="verb_form_36">deal,dealt,dealt</string>-->
+    <string name="verb_form_36_same_0_translate">"misdo"</string>
+    <string name="verb_form_36_same_1_translate">"reloué"</string>
+
+    <string name="verb_form_38_same_1_translate">"misdo"</string>
+    <string name="verb_form_38_same_2_translate">"surmonter"</string>
+    <string name="verb_form_38_same_3_translate">"overdo overdo"</string>
+    <string name="verb_form_38_same_4_translate">"remodeler"</string>
+    <string name="verb_form_38_same_5_translate">"annuler"</string>
+    <string name="verb_form_38_same_6_translate">"underdo"</string>
+
+    <string name="verb_form_39_same_0_translate">"Outdraw"</string>
+    <string name="verb_form_39_same_1_translate">"exagérer"</string>
+    <string name="verb_form_39_same_2_translate">"redessiner"</string>
+    <string name="verb_form_39_same_4_translate">"écran, retirez"</string>
+
+    <string name="verb_form_41_same_1_translate">"trop boire"</string>
+
+    <string name="verb_form_42_same_0_translate">"dépasser"</string>
+    <string name="verb_form_42_same_1_translate">"zaganyat, le surmenage"</string>
+
+    <string name="verb_form_44_same_0_translate">"trop manger"</string>
+    <string name="verb_form_44_same_1_translate">"nedoest"</string>
+
+    <string name="verb_form_45_same_0_translate">"arriver arrivera"</string>
+
+    <string name="verb_form_46_same_0_translate">"allaiter"</string>
+    <string name="verb_form_46_same_1_translate">"familiariser la force"</string>
+    <string name="verb_form_46_same_2_translate">"main-alimentation"</string>
+    <string name="verb_form_46_same_4_translate">"suralimenter"</string>
+    <string name="verb_form_46_same_6_translate">"cuillère d'alimentation"</string>
+    <string name="verb_form_46_same_7_translate">"sous-alimentées, sous-alimenter"</string>
+
+
+    <string name="verb_form_53_same_0_translate">"voler dépasser en vol"</string>
+    <string name="verb_form_53_same_1_translate">"pour voler, voler plus loin"</string>
+
+    <string name="verb_form_60_same_0_translate">"surgeler"</string>
+    <string name="verb_form_60_same_1_translate">"recongeler"</string>
+    <string name="verb_form_60_same_2_translate">"décongeler"</string>
+
+    <string name="verb_form_61_same_0_translate">"générer"</string>
+
+    <string name="verb_form_63_same_0_translate">"pardonner"</string>
+    <string name="verb_form_63_same_1_translate">"ratés, misgive"</string>
+
+    <string name="verb_form_64_same_1_translate">"refuser"</string>
+    <string name="verb_form_64_same_2_translate">"refuser"</string>
+    <string name="verb_form_64_same_4_translate">"subir"</string>
+
+    <string name="verb_form_66_same_0_translate">"devenir trop grand pour"</string>
+    <string name="verb_form_66_same_1_translate">"envahie, envahir"</string>
+
+    <string name="verb_form_67_same_0_translate">"surplomb"</string>
+
+    <string name="verb_form_69_same_0_translate">"mal entendu"</string>
+    <string name="verb_form_69_same_1_translate">"espionner"</string>
+
+    <string name="verb_form_72_same_0_translate">"contempler"</string>
+    <string name="verb_form_72_same_3_translate">"soutien"</string>
+    <string name="verb_form_72_same_4_translate">"tenir"</string>
+
+    <string name="verb_form_77_same_1_translate">"prévoir"</string>
+
+    <string name="verb_form_78_same_3_translate">"investir"</string>
+    <string name="verb_form_78_same_4_translate">"intercalaire"</string>
+    <string name="verb_form_78_same_5_translate">"jeter, perdre"</string>
+    <string name="verb_form_78_same_7_translate">"passer"</string>
+    <string name="verb_form_78_same_8_translate">"chevauchement, couverture"</string>
+    <string name="verb_form_78_same_9_translate">"changement"</string>
+    <string name="verb_form_78_same_10_translate">"thibaude"</string>
+    <string name="verb_form_78_same_13_translate">"waylay"</string>
+
+    <string name="verb_form_79_same_3_translate">"induire en erreur"</string>
+
+    <string name="verb_form_81_same_3_translate">"saut"</string>
+
+    <string name="verb_form_82_same_2_translate">"en savoir plus"</string>
+    <string name="verb_form_82_same_3_translate">"désapprendre"</string>
+
+    <string name="verb_form_85_same_1_translate">"sous-louer"</string>
+    <string name="verb_form_85_same_2_translate">"sous-louer"</string>
+
+    <string name="verb_form_86_same_2_translate">"poser sur"</string>
+    <string name="verb_form_86_same_3_translate">"jacente"</string>
+
+    <string name="verb_form_87_same_0_translate">"rétroéclairage"</string>
+    <string name="verb_form_87_same_2_translate">"rallumage, rallumer"</string>
+
+    <string name="verb_form_89_same_0_translate">"remodeler, reconstruire"</string>
+    <string name="verb_form_89_same_1_translate">"détruire"</string>
+
+    <string name="verb_form_93_same_0_translate">"surpayer"</string>
+    <string name="verb_form_93_same_1_translate">"payer à l'avance"</string>
+    <string name="verb_form_93_same_2_translate">"rembourser, retour, indemniser"</string>
+    <string name="verb_form_93_same_3_translate">"sous-payer"</string>
+
+    <string name="verb_form_95_same_0_translate">"entrer"</string>
+    <string name="verb_form_95_same_1_translate">"montrer"</string>
+
+    <string name="verb_form_97_same_1_translate">"lecture labiale"</string>
+    <string name="verb_form_97_same_2_translate">"mal interprété, mal interpréter"</string>
+    <string name="verb_form_97_same_3_translate">"corriger les épreuves"</string>
+    <string name="verb_form_97_same_4_translate">"relire"</string>
+    <string name="verb_form_97_same_5_translate">"déchiffrer"</string>
+
+    <string name="verb_form_101_same_0_translate">"avance, dépassant"</string>
+
+
+    <string name="verb_form_103_same_0_translate">"survenir"</string>
+    <string name="verb_form_103_same_1_translate">"hausse, hausse"</string>
+
+    <string name="verb_form_104_same_0_translate">"présage"</string>
+    <string name="verb_form_104_same_1_translate">"dépasser distillent"</string>
+    <string name="verb_form_104_same_3_translate">"reprise"</string>
+
+    <string name="verb_form_106_same_1_translate">"nier contredisent"</string>
+
+    <string name="verb_form_107_same_1_translate">"prévoir"</string>
+    <string name="verb_form_107_same_3_translate">"observer, contrôler"</string>
+    <string name="verb_form_107_same_4_translate">"inspecter"</string>
+
+    <string name="verb_form_109_same_0_translate">"bien prodavatsya"</string>
+    <string name="verb_form_109_same_1_translate">"survendre"</string>
+    <string name="verb_form_109_same_2_translate">"revendre"</string>
+    <string name="verb_form_109_same_3_translate">"vendre dans le coût"</string>
+
+    <string name="verb_form_110_same_1_translate">"renvoyer"</string>
+
+    <string name="verb_form_111_same_0_translate">"assiéger, encercler"</string>
+    <string name="verb_form_111_same_1_translate">"composer manuellement (le téléphone de quelqu'un)"</string>
+    <string name="verb_form_111_same_2_translate">"Collez,investir"</string>
+    <string name="verb_form_111_same_4_translate">"déposer,compenser"</string>
+    <string name="verb_form_111_same_5_translate">"inclinaison"</string>
+    <string name="verb_form_111_same_6_translate">"preestablish"</string>
+    <string name="verb_form_111_same_7_translate">"rétablir"</string>
+    <string name="verb_form_111_same_8_translate">"bouleversé, perturber"</string>
+
+
+    <string name="verb_form_112_same_1_translate">"oversew"</string>
+
+    <string name="verb_form_117_same_1_translate">"éclipser"</string>
+
+    <string name="verb_form_119_same_1_translate">"manquer"</string>
+    <string name="verb_form_119_same_2_translate">"reprenez la photo"</string>
+    <string name="verb_form_119_same_3_translate">"undershoot"</string>
+
+    <string name="verb_form_120_same_0_translate">"prévoir"</string>
+
+    <string name="verb_form_125_same_0_translate">"babysitting"</string>
+
+    <string name="verb_form_127_same_0_translate">"oversleep"</string>
+
+    <string name="verb_form_128_same_0_translate">"retraite"</string>
+
+    <!--<string name="verb_form_136">spell,spelt,spelt</string>-->
+    <string name="verb_form_136_same_0_translate">"mal orthographier"</string>
+
+    <!--<string name="verb_form_137">spend,spent,spent</string>-->
+    <string name="verb_form_137_same_1_translate">"misspend"</string>
+    <string name="verb_form_137_same_2_translate">"dépenser sans compter"</string>
+    <string name="verb_form_137_same_3_translate">"trop dépenser"</string>
+
+    <!--<string name="verb_form_145">stand,stood,stood</string>-->
+    <string name="verb_form_145_same_1_translate">"méprenez"</string>
+    <string name="verb_form_145_same_2_translate">"over"</string>
+    <string name="verb_form_145_same_3_translate">"comprendre"</string>
+    <string name="verb_form_145_same_5_translate">"résister à"</string>
+
+    <!--<string name="verb_form_150">stride,strode,stridden</string>-->
+    <string name="verb_form_150_same_0_translate">"enfourcher"</string>
+
+    <!--<string name="verb_form_155">swear,swore,sworn</string>-->
+    <string name="verb_form_155_same_0_translate">"renoncer"</string>
+
+    <!--<string name="verb_form_156">sweep,swept,swept</string>-->
+    <string name="verb_form_156_same_0_translate">"upsweep"</string>
+
+    <!--<string name="verb_form_160">take,took,taken</string>-->
+    <string name="verb_form_160_same_0_translate">"recours"</string>
+    <string name="verb_form_160_same_2_translate">"err"</string>
+    <string name="verb_form_160_same_3_translate">"rattraper, dépasser"</string>
+    <string name="verb_form_160_same_4_translate">"participer"</string>
+    <string name="verb_form_160_same_5_translate">"reloué"</string>
+    <string name="verb_form_160_same_6_translate">"entreprendre"</string>
+
+    <!--<string name="verb_form_163">tell,told,told</string>-->
+    <string name="verb_form_163_same_0_translate">"prévoir"</string>
+    <string name="verb_form_163_same_1_translate">"répéter"</string>
+
+    <!--<string name="verb_form_164">think,thought,thought</string>-->
+    <string name="verb_form_164_same_0_translate">"se montrer plus malin"</string>
+    <string name="verb_form_164_same_1_translate">"examen"</string>
+
+    <!--<string name="verb_form_166">throw,threw,thrown</string>-->
+    <string name="verb_form_166_same_1_translate">"jeter"</string>
+    <string name="verb_form_166_same_2_translate">"renversement"</string>
+    <string name="verb_form_166_same_4_translate">"upthrow"</string>
+
+    <!--<string name="verb_form_167">thrust,thrust,thrust</string>-->
+    <string name="verb_form_167_same_0_translate">"jeter"</string>
+
+    <!--<string name="verb_form_172">wake,woke,woken</string>-->
+    <string name="verb_form_172_same_0_translate">"réveiller"</string>
+
+    <!--<string name="verb_form_173">wear,wore,worn</string>-->
+    <string name="verb_form_173_same_1_translate">"porter"</string>
+
+    <!--<string name="verb_form_174">weave,wove,woven</string>-->
+    <string name="verb_form_174_same_0_translate">"s'entrelacer"</string>
+    <string name="verb_form_174_same_1_translate">"unbraid"</string>
+
+    <!--<string name="verb_form_182">write,wrote,written</string>-->
+    <string name="verb_form_182_same_3_translate">"récrire"</string>
+    <string name="verb_form_182_same_4_translate">"récrire"</string>
+    <string name="verb_form_182_same_5_translate">"assurer, s'abonner"</string>
+
+</resources>

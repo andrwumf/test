@@ -1,0 +1,464 @@
+<resources>
+
+    <string name="verb_form_4_same_0_translate">"втриматися"</string>
+    <string name="verb_form_4_same_2_translate">"придушувати"</string>
+
+    <string name="verb_form_5_same_0_translate">"залякати"</string>
+
+    <string name="verb_form_6_same_0_translate">"не підходити"</string>
+
+    <string name="verb_form_10_same_1_translate">"розігнути"</string>
+
+    <string name="verb_form_13_same_0_translate">"для скасування прив'язки"</string>
+
+    <string name="verb_form_16_same_0_translate">"роздути"</string>
+
+    <string name="verb_form_17_same_0_translate">"спалахувати"</string>
+    <string name="verb_form_17_same_1_translate">"повторно розбивати"</string>
+
+    <string name="verb_form_21_same_0_translate">"надбудовувати"</string>
+    <string name="verb_form_21_same_1_translate">"відновити"</string>
+
+    <!--<string name="verb_form_24">buy,bought,bought</string>-->
+    <string name="verb_form_24_same_1_translate">"занадто великій"</string>
+    <string name="verb_form_24_same_2_translate">"купувати нижче вартості"</string>
+
+    <string name="verb_form_26_same_0_translate">"транслювати"</string>
+    <string name="verb_form_26_same_2_translate">"прогнозувати"</string>
+    <string name="verb_form_26_same_3_translate">"неправильно розділяти ролі"</string>
+    <string name="verb_form_26_same_4_translate">"похмуро"</string>
+    <string name="verb_form_26_same_7_translate">"переробити"</string>
+    <string name="verb_form_26_same_9_translate">"Телетрансляція"</string>
+    <string name="verb_form_26_same_10_translate">"приведення"</string>
+
+    <string name="verb_form_30_same_1_translate">"роздягати"</string>
+
+    <string name="verb_form_31_same_0_translate">"подолати"</string>
+
+    <string name="verb_form_34_same_4_translate">"перекроїти"</string>
+    <string name="verb_form_34_same_5_translate">"підірвати"</string>
+
+    <!--<string name="verb_form_36">deal,dealt,dealt</string>-->
+    <string name="verb_form_36_same_0_translate">"помилятися при здачі"</string>
+    <string name="verb_form_36_same_1_translate">"пересдавати"</string>
+
+    <string name="verb_form_38_same_1_translate">"здійснювати злодіяння"</string>
+    <string name="verb_form_38_same_2_translate">"перевершити"</string>
+    <string name="verb_form_38_same_3_translate">"перестаратися"</string>
+    <string name="verb_form_38_same_4_translate">"переробляти"</string>
+    <string name="verb_form_38_same_5_translate">"скасувати"</string>
+    <string name="verb_form_38_same_6_translate">"недожарювати"</string>
+
+    <string name="verb_form_39_same_0_translate">"перетягувати"</string>
+    <string name="verb_form_39_same_1_translate">"перебільшувативати"</string>
+    <string name="verb_form_39_same_2_translate">"перемалювувати"</string>
+    <string name="verb_form_39_same_4_translate">"відкликати"</string>
+
+    <string name="verb_form_41_same_1_translate">"перепити"</string>
+
+    <string name="verb_form_42_same_0_translate">"обганяти"</string>
+    <string name="verb_form_42_same_1_translate">"заганяти"</string>
+
+    <string name="verb_form_44_same_0_translate">"переїдати"</string>
+    <string name="verb_form_44_same_1_translate">"недоїдати"</string>
+
+    <string name="verb_form_45_same_0_translate">"спіткає"</string>
+
+    <string name="verb_form_46_same_0_translate">"годувати грудьми"</string>
+    <string name="verb_form_46_same_1_translate">"насильно годувати"</string>
+    <string name="verb_form_46_same_2_translate">"годувати з рук"</string>
+    <string name="verb_form_46_same_4_translate">"перегодовувати"</string>
+    <string name="verb_form_46_same_6_translate">"годувати з ложки"</string>
+    <string name="verb_form_46_same_7_translate">"недогодувати"</string>
+
+
+    <string name="verb_form_53_same_0_translate">"вилітати"</string>
+    <string name="verb_form_53_same_1_translate">"на проліт"</string>
+
+    <string name="verb_form_60_same_0_translate">"швидко заморозити"</string>
+    <string name="verb_form_60_same_1_translate">"заморозити"</string>
+    <string name="verb_form_60_same_2_translate">"розморозити"</string>
+
+    <string name="verb_form_61_same_0_translate">"породжувати"</string>
+
+    <string name="verb_form_63_same_0_translate">"пробачити"</string>
+    <string name="verb_form_63_same_1_translate">"давати осічку"</string>
+
+    <string name="verb_form_64_same_1_translate">"відмовитися"</string>
+    <string name="verb_form_64_same_2_translate">"відмовитися"</string>
+    <string name="verb_form_64_same_4_translate">"пройти"</string>
+
+    <string name="verb_form_66_same_0_translate">"переростати"</string>
+    <string name="verb_form_66_same_1_translate">"перерости"</string>
+
+    <string name="verb_form_67_same_0_translate">"звисати"</string>
+
+    <string name="verb_form_69_same_0_translate">"помилятися"</string>
+    <string name="verb_form_69_same_1_translate">"підслуховувати"</string>
+
+    <string name="verb_form_72_same_0_translate">"споглядати"</string>
+    <string name="verb_form_72_same_3_translate">"підтримувати"</string>
+    <string name="verb_form_72_same_4_translate">"утримувати"</string>
+
+    <string name="verb_form_77_same_1_translate">"знати заздалегідь"</string>
+
+    <string name="verb_form_78_same_3_translate">"вкласти"</string>
+    <string name="verb_form_78_same_4_translate">"прошарувати"</string>
+    <string name="verb_form_78_same_5_translate">"закласти"</string>
+    <string name="verb_form_78_same_7_translate">"витрати"</string>
+    <string name="verb_form_78_same_8_translate">"накладати"</string>
+    <string name="verb_form_78_same_9_translate">"повторно закласти"</string>
+    <string name="verb_form_78_same_10_translate">"підкладати"</string>
+    <string name="verb_form_78_same_13_translate">"підстерегти"</string>
+
+    <string name="verb_form_79_same_3_translate">"ввести в оману"</string>
+
+    <string name="verb_form_81_same_3_translate">"перескочити"</string>
+
+    <string name="verb_form_82_same_2_translate">"переучуватися"</string>
+    <string name="verb_form_82_same_3_translate">"розучитися"</string>
+
+    <string name="verb_form_85_same_1_translate">"передавати в суборенду"</string>
+    <string name="verb_form_85_same_2_translate">"передавати в суборенду"</string>
+
+    <string name="verb_form_86_same_2_translate">"перекривати"</string>
+    <string name="verb_form_86_same_3_translate">"Лежати в основі"</string>
+
+    <string name="verb_form_87_same_0_translate">"підсвічувати"</string>
+    <string name="verb_form_87_same_2_translate">"запалити"</string>
+
+    <string name="verb_form_89_same_0_translate">"переробити"</string>
+    <string name="verb_form_89_same_1_translate">"руйнувати"</string>
+
+    <string name="verb_form_93_same_0_translate">"переплачувати"</string>
+    <string name="verb_form_93_same_1_translate">"платити наперед"</string>
+    <string name="verb_form_93_same_2_translate">"погашення (якогось боргу)"</string>
+    <string name="verb_form_93_same_3_translate">"недоплачувати"</string>
+
+    <string name="verb_form_95_same_0_translate">"введення"</string>
+    <string name="verb_form_95_same_1_translate">"виведення"</string>
+
+    <string name="verb_form_97_same_1_translate">"читати по губах"</string>
+    <string name="verb_form_97_same_2_translate">"неправильно читати"</string>
+    <string name="verb_form_97_same_3_translate">"коригувати"</string>
+    <string name="verb_form_97_same_4_translate">"перечитати"</string>
+    <string name="verb_form_97_same_5_translate">"читати з аркуша"</string>
+
+    <string name="verb_form_101_same_0_translate">"обскакати"</string>
+
+
+    <string name="verb_form_103_same_0_translate">"виникають"</string>
+    <string name="verb_form_103_same_1_translate">"підійматися, повставати"</string>
+
+    <string name="verb_form_104_same_0_translate">"провістити"</string>
+    <string name="verb_form_104_same_1_translate">"обігнати"</string>
+    <string name="verb_form_104_same_3_translate">"перезапустити"</string>
+
+    <string name="verb_form_106_same_1_translate">"заперечувати"</string>
+
+    <string name="verb_form_107_same_1_translate">"передбачити"</string>
+    <string name="verb_form_107_same_3_translate">"спостерігати за"</string>
+    <string name="verb_form_107_same_4_translate">"оглянути визначні пам'ятки"</string>
+
+    <string name="verb_form_109_same_0_translate">"обігнати"</string>
+    <string name="verb_form_109_same_1_translate">"переоцінювати"</string>
+    <string name="verb_form_109_same_2_translate">"перепродати"</string>
+    <string name="verb_form_109_same_3_translate">"продавати дешевше"</string>
+
+    <string name="verb_form_110_same_1_translate">"повторно відправити"</string>
+
+    <string name="verb_form_111_same_0_translate">"осаджувати"</string>
+    <string name="verb_form_111_same_1_translate">"набірати вручну(чий-то номер телефону)"</string>
+    <string name="verb_form_111_same_2_translate">"втавляти"</string>
+    <string name="verb_form_111_same_4_translate">"компенсувати"</string>
+    <string name="verb_form_111_same_5_translate">"витісняти"</string>
+    <string name="verb_form_111_same_6_translate">"установлювати завчасно"</string>
+    <string name="verb_form_111_same_7_translate">"скинути"</string>
+    <string name="verb_form_111_same_8_translate">"засмучувати"</string>
+
+
+    <string name="verb_form_112_same_1_translate">"надшивати (щось поверх чогось)"</string>
+
+    <string name="verb_form_117_same_1_translate">"затьмарити"</string>
+
+    <string name="verb_form_119_same_1_translate">"перевищення"</string>
+    <string name="verb_form_119_same_2_translate">"перезняти"</string>
+    <string name="verb_form_119_same_3_translate">"недолетіти"</string>
+
+    <string name="verb_form_120_same_0_translate">"передбачати"</string>
+
+    <string name="verb_form_125_same_0_translate">"дивитися за дитиною"</string>
+
+    <string name="verb_form_127_same_0_translate">"проспати"</string>
+
+    <string name="verb_form_128_same_0_translate">"отступати"</string>
+
+    <!--<string name="verb_form_136">spell,spelt,spelt</string>-->
+    <string name="verb_form_136_same_0_translate">"робити орфографічні помилки"</string>
+
+    <!--<string name="verb_form_137">spend,spent,spent</string>-->
+    <string name="verb_form_137_same_1_translate">"даремно витрачати гроші"</string>
+    <string name="verb_form_137_same_2_translate">"перевитрачати"</string>
+    <string name="verb_form_137_same_3_translate">"смітити грошима"</string>
+
+    <!--<string name="verb_form_145">stand,stood,stood</string>-->
+    <string name="verb_form_145_same_1_translate">"неправильно зрозуміти"</string>
+    <string name="verb_form_145_same_2_translate">"overstand"</string>
+    <string name="verb_form_145_same_3_translate">"зрозуміти"</string>
+    <string name="verb_form_145_same_5_translate">"витримувати"</string>
+
+    <!--<string name="verb_form_150">stride,strode,stridden</string>-->
+    <string name="verb_form_150_same_0_translate">"осідлати"</string>
+
+    <!--<string name="verb_form_155">swear,swore,sworn</string>-->
+    <string name="verb_form_155_same_0_translate">"відрекатися"</string>
+
+    <!--<string name="verb_form_156">sweep,swept,swept</string>-->
+    <string name="verb_form_156_same_0_translate">"зачесувати"</string>
+
+    <!--<string name="verb_form_160">take,took,taken</string>-->
+    <string name="verb_form_160_same_0_translate">"з'їздити"</string>
+    <string name="verb_form_160_same_2_translate">"переплутати"</string>
+    <string name="verb_form_160_same_3_translate">"обігнати"</string>
+    <string name="verb_form_160_same_4_translate">"взяти участь"</string>
+    <string name="verb_form_160_same_5_translate">"перездавати"</string>
+    <string name="verb_form_160_same_6_translate">"вжити"</string>
+
+    <!--<string name="verb_form_163">tell,told,told</string>-->
+    <string name="verb_form_163_same_0_translate">"пророкувати"</string>
+    <string name="verb_form_163_same_1_translate">"переказувати"</string>
+
+    <!--<string name="verb_form_164">think,thought,thought</string>-->
+    <string name="verb_form_164_same_0_translate">"передумати"</string>
+    <string name="verb_form_164_same_1_translate">"переосмислити"</string>
+
+    <!--<string name="verb_form_166">throw,threw,thrown</string>-->
+    <string name="verb_form_166_same_1_translate">"викидати"</string>
+    <string name="verb_form_166_same_2_translate">"повалити"</string>
+    <string name="verb_form_166_same_4_translate">"кидати вгору"</string>
+
+    <!--<string name="verb_form_167">thrust,thrust,thrust</string>-->
+    <string name="verb_form_167_same_0_translate">"викидати"</string>
+
+    <!--<string name="verb_form_172">wake,woke,woken</string>-->
+    <string name="verb_form_172_same_0_translate">"пробудитися"</string>
+
+    <!--<string name="verb_form_173">wear,wore,worn</string>-->
+    <string name="verb_form_173_same_1_translate">"ізношувати"</string>
+
+    <!--<string name="verb_form_174">weave,wove,woven</string>-->
+    <string name="verb_form_174_same_0_translate">"вплести"</string>
+    <string name="verb_form_174_same_1_translate">"розплутати"</string>
+
+    <!--<string name="verb_form_182">write,wrote,written</string>-->
+    <string name="verb_form_182_same_3_translate">"перезаписати"</string>
+    <string name="verb_form_182_same_4_translate">"переписати"</string>
+    <string name="verb_form_182_same_5_translate">"підписати"</string>
+
+    <string name="verb_name_0">"дотримуватися"</string>
+    <string name="verb_name_1">"виникають"</string>
+    <string name="verb_name_2">"пробудитися"</string>
+    <string name="verb_name_3">"бути"</string>
+    <string name="verb_name_4">"нести"</string>
+    <string name="verb_name_5">"бити"</string>
+    <string name="verb_name_6">"стати"</string>
+    <string name="verb_name_7">"спіткає"</string>
+    <string name="verb_name_8">"почати"</string>
+    <string name="verb_name_9">"споглядати"</string>
+    <string name="verb_name_10">"зігнути"</string>
+    <string name="verb_name_11">"зробити ставку"</string>
+    <string name="verb_name_12">"взяти участь в торгах"</string>
+    <string name="verb_name_13">"зв'язати"</string>
+    <string name="verb_name_14">"вкусити"</string>
+    <string name="verb_name_15">"кровоточити"</string>
+    <string name="verb_name_16">"підірвати"</string>
+    <string name="verb_name_17">"зламати"</string>
+    <string name="verb_name_18">"розводити"</string>
+    <string name="verb_name_19">"довести"</string>
+    <string name="verb_name_20">"транслювати"</string>
+    <string name="verb_name_21">"побудувати"</string>
+    <string name="verb_name_22">"спалити"</string>
+    <string name="verb_name_23">"лопнути"</string>
+    <string name="verb_name_24">"купити"</string>
+    <string name="verb_name_25">"могти"</string>
+    <string name="verb_name_26">"кинути"</string>
+    <string name="verb_name_27">"зловити"</string>
+    <string name="verb_name_28">"вибрати"</string>
+    <string name="verb_name_29">"чіплятися"</string>
+    <string name="verb_name_30">"наділити"</string>
+    <string name="verb_name_31">"приїхати"</string>
+    <string name="verb_name_32">"коштувати"</string>
+    <string name="verb_name_33">"повзти"</string>
+    <string name="verb_name_34">"скоротити"</string>
+    <string name="verb_name_35">"зважитися"</string>
+    <string name="verb_name_36">"займатися справою"</string>
+    <string name="verb_name_37">"копати"</string>
+    <string name="verb_name_38">"робити"</string>
+    <string name="verb_name_39">"малювати"</string>
+    <string name="verb_name_40">"мріяти"</string>
+    <string name="verb_name_41">"пити"</string>
+    <string name="verb_name_42">"їздити"</string>
+    <string name="verb_name_43">"жити"</string>
+    <string name="verb_name_44">"їсти"</string>
+    <string name="verb_name_45">"падати"</string>
+    <string name="verb_name_46">"годувати"</string>
+    <string name="verb_name_47">"відчувати"</string>
+    <string name="verb_name_48">"боротися"</string>
+    <string name="verb_name_49">"шукати"</string>
+    <string name="verb_name_50">"відповідати"</string>
+    <string name="verb_name_51">"бігти"</string>
+    <string name="verb_name_52">"кидати"</string>
+    <string name="verb_name_53">"літати"</string>
+    <string name="verb_name_54">"втриматися"</string>
+    <string name="verb_name_55">"заборонити"</string>
+    <string name="verb_name_56">"забувати"</string>
+    <string name="verb_name_57">"пробачити"</string>
+    <string name="verb_name_58">"відмовитися"</string>
+    <string name="verb_name_59">"відрікатися"</string>
+    <string name="verb_name_60">"заморозити"</string>
+    <string name="verb_name_61">"отримувати"</string>
+    <string name="verb_name_62">"позолотити"</string>
+    <string name="verb_name_63">"давати"</string>
+    <string name="verb_name_64">"ходити"</string>
+    <string name="verb_name_65">"точити, подрібнювати"</string>
+    <string name="verb_name_66">"зростати"</string>
+    <string name="verb_name_67">"повісити"</string>
+    <string name="verb_name_68">"мати"</string>
+    <string name="verb_name_69">"почути"</string>
+    <string name="verb_name_70">"приховати"</string>
+    <string name="verb_name_71">"вдарити"</string>
+    <string name="verb_name_72">"провести"</string>
+    <string name="verb_name_73">"хворіти"</string>
+    <string name="verb_name_74">"тримати"</string>
+    <string name="verb_name_75">"вставати на коліна"</string>
+    <string name="verb_name_76">"в'язати"</string>
+    <string name="verb_name_77">"знати"</string>
+    <string name="verb_name_78">"закласти"</string>
+    <string name="verb_name_79">"вести"</string>
+    <string name="verb_name_80">"спертися"</string>
+    <string name="verb_name_81">"стрибнути"</string>
+    <string name="verb_name_82">"дізнатися"</string>
+    <string name="verb_name_83">"залишати"</string>
+    <string name="verb_name_84">"кредитувати"</string>
+    <string name="verb_name_85">"дозволяти"</string>
+    <string name="verb_name_86">"брехати"</string>
+    <string name="verb_name_87">"світити"</string>
+    <string name="verb_name_88">"втратити"</string>
+    <string name="verb_name_89">"зробити"</string>
+    <string name="verb_name_90">"означати"</string>
+    <string name="verb_name_91">"назустріч"</string>
+    <string name="verb_name_92">"косити"</string>
+    <string name="verb_name_93">"платити"</string>
+    <string name="verb_name_94">"довести"</string>
+    <string name="verb_name_95">"покласти"</string>
+    <string name="verb_name_96">"кинути"</string>
+    <string name="verb_name_97">"читати"</string>
+    <string name="verb_name_98">"роздирати"</string>
+    <string name="verb_name_99">"скинути"</string>
+    <string name="verb_name_100">"позбавляти"</string>
+    <string name="verb_name_101">"осідлати"</string>
+    <string name="verb_name_102">"дзвонити"</string>
+    <string name="verb_name_103">"зростати"</string>
+    <string name="verb_name_104">"бігти"</string>
+    <string name="verb_name_105">"пиляти"</string>
+    <string name="verb_name_106">"сказати"</string>
+    <string name="verb_name_107">"бачити"</string>
+    <string name="verb_name_108">"шукати"</string>
+    <string name="verb_name_109">"продати"</string>
+    <string name="verb_name_110">"відправляти"</string>
+    <string name="verb_name_111">"встановлювати"</string>
+    <string name="verb_name_112">"шити"</string>
+    <string name="verb_name_113">"трясти"</string>
+    <string name="verb_name_114">"голити"</string>
+    <string name="verb_name_115">"стригти"</string>
+    <string name="verb_name_116">"пролити"</string>
+    <string name="verb_name_117">"сяяти"</string>
+    <string name="verb_name_118">"підкувати"</string>
+    <string name="verb_name_119">"стріляти"</string>
+    <string name="verb_name_120">"показувати"</string>
+    <string name="verb_name_121">"скорочуватися"</string>
+    <string name="verb_name_122">"закривати"</string>
+    <string name="verb_name_123">"співати"</string>
+    <string name="verb_name_124">"тонути"</string>
+    <string name="verb_name_125">"сидіти"</string>
+    <string name="verb_name_126">"вбивати"</string>
+    <string name="verb_name_127">"спати"</string>
+    <string name="verb_name_128">"ковзати"</string>
+    <string name="verb_name_129">"кидати"</string>
+    <string name="verb_name_130">"крастися"</string>
+    <string name="verb_name_131">"пахнути"</string>
+    <string name="verb_name_132">"розбивати, знищувати"</string>
+    <string name="verb_name_133">"сіяти"</string>
+    <string name="verb_name_134">"говорити"</string>
+    <string name="verb_name_135">"швидко переміщуватися"</string>
+    <string name="verb_name_136">"читати по буквам"</string>
+    <string name="verb_name_137">"тратити"</string>
+    <string name="verb_name_138">"проливати"</string>
+    <string name="verb_name_139">"крутитися"</string>
+    <string name="verb_name_140">"плювати"</string>
+    <string name="verb_name_141">"розділити"</string>
+    <string name="verb_name_142">"зіпсувати"</string>
+    <string name="verb_name_143">"поширюватися"</string>
+    <string name="verb_name_144">"пригати, скакати"</string>
+    <string name="verb_name_145">"стояти"</string>
+    <string name="verb_name_146">"вкрасти"</string>
+    <string name="verb_name_147">"дотримуватися"</string>
+    <string name="verb_name_148">"вжалити"</string>
+    <string name="verb_name_149">"смердіти"</string>
+    <string name="verb_name_150">"крокувати"</string>
+    <string name="verb_name_151">"вдарити"</string>
+    <string name="verb_name_152">"натянути"</string>
+    <string name="verb_name_153">"прагнути"</string>
+    <string name="verb_name_154">"передавати в суборенду"</string>
+    <string name="verb_name_155">"лаятися"</string>
+    <string name="verb_name_156">"підмітати"</string>
+    <string name="verb_name_157">"набухати"</string>
+    <string name="verb_name_158">"плавати"</string>
+    <string name="verb_name_159">"качати"</string>
+    <string name="verb_name_160">"прийняти"</string>
+    <string name="verb_name_161">"вчити"</string>
+    <string name="verb_name_162">"рвати"</string>
+    <string name="verb_name_163">"сказати"</string>
+    <string name="verb_name_164">"думати"</string>
+    <string name="verb_name_165">"процвітати"</string>
+    <string name="verb_name_166">"кинути"</string>
+    <string name="verb_name_167">"засунути"</string>
+    <string name="verb_name_168">"ступати"</string>
+    <string name="verb_name_169">"зрозуміти"</string>
+    <string name="verb_name_170">"вживати"</string>
+    <string name="verb_name_171">"засмучувати"</string>
+    <string name="verb_name_172">"будити"</string>
+    <string name="verb_name_173">"носити"</string>
+    <string name="verb_name_174">"плести"</string>
+    <string name="verb_name_175">"одружитися"</string>
+    <string name="verb_name_176">"плакати"</string>
+    <string name="verb_name_177">"мочити"</string>
+    <string name="verb_name_178">"вигравати"</string>
+    <string name="verb_name_179">"заводити годинник"</string>
+    <string name="verb_name_180">"відкликати"</string>
+    <string name="verb_name_181">"скрутити"</string>
+    <string name="verb_name_182">"написати"</string>
+
+    <string name="verb_name_183">"породжувати"</string>
+    <string name="verb_name_184">"благати"</string>
+    <string name="verb_name_185">"зробити ставку"</string>
+    <string name="verb_name_186">"остерігатися"</string>
+    <string name="verb_name_187">"благословляти"</string>
+    <string name="verb_name_189">"розщеплювати"</string>
+    <string name="verb_name_197">"рубати"</string>
+    <string name="verb_name_200">"щоб накладаєте"</string>
+    <string name="verb_name_208">"благати"</string>
+    <string name="verb_name_216">"перерізати"</string>
+    <string name="verb_name_217">"крастися"</string>
+
+    <string name="app_name">"Неправильні дієслова в англійській мові"</string>
+    <string-array name="rivers">
+        <item>"Список слів"</item>
+        <item>"Тренінг"</item>
+        <item>"Настройки"</item>
+    </string-array>
+    <string name="choise_verb_for_training">"Виберіть слова для вивчення"</string>
+    <string name="cancel">"Скасувати"</string>
+    <string name="all_words">"Всі слова (183 слова)"</string>
+    <string name="only_often_met_words">"Ті, якими частіше користуються. (49 слів)"</string>
+</resources>

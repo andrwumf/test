@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Неправильные глаголы в английском</string>
+    <string-array name="rivers">
+        <item >Список слов</item>
+        <item >Тренировка</item>
+        <item >Настройки</item>
+    </string-array>
+    <string name="choise_verb_for_training">Выберите слова для тренировки</string>
+    <string name="cancel">Отмена</string>
+    <string name="all_words">Все слова (183 слова)</string>
+    <string name="only_often_met_words">Только наиболее часто используемые. (49 слов)</string>
+</resources>

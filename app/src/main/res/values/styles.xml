@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:listViewStyle">@style/ListViewAppTheme</item>
+        <item name="android:listViewWhiteStyle">@style/ListViewAppTheme.White</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItemAppTheme</item>
+        <item name="searchViewSearchIcon">@drawable/ic_search</item>
+        <item name="android:checkboxStyle">@style/CheckBoxAppTheme</item>
+        <item name="android:spinnerStyle">@style/SpinnerAppTheme</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemAppTheme</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>

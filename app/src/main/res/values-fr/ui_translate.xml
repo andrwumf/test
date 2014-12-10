@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Les verbes irréguliers en anglais"</string>
+    <string-array name="rivers">
+        <item>"Wordlist"</item>
+        <item>"Formation"</item>
+        <item>"Réglages"</item>
+    </string-array>
+    <string name="choise_verb_for_training">"Choisissez des mots de formation"</string>
+    <string name="cancel">"Annuler"</string>
+    <string name="all_words">Tous les mots (183 mots)</string>
+    <string name="only_often_met_words">Seule la plus couramment utilisée. (49 mots)</string>
+</resources>

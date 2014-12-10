@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="highlight">#7F368ecf</color>
+    <!--<color name="same_irregular_prefix">#FFD980</color>-->
+    <!--<color name="same_irregular_prefix">#FFAE18</color>-->
+    <color name="same_irregular_prefix">#5D5D5D</color>
+    <color name="light_grey">#ADADAD</color>
+    <color name="form2_color">#785AB6</color>
+
+    <color name="popular_more">#7f669900</color>
+    <color name="popular_normal">#7fffbb33</color>
+    <color name="popular_less">#7fcc0000</color>
+</resources>

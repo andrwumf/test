@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name="choice_only"> Sélectionnez uniquement ... </string>
+        
+    <string name="frequently_used_words">mots fréquemment utilisés</string>
+        
+    <string name="less_frequently_used_words"> Moins fréquemment utilisé des mots </string>
+        
+    <string name="rarely_used_words"> mots rarement utilisés </string>
+        
+    <string name="a20words">20 mots</string>
+        
+    <string name="a50words">50 mots</string>
+        
+    <string name="a100_words">100 mots</string>
+        
+    <string name="cards"> cartes </string>
+        
+    <string name="enter_the_word"> mot Fit </string>
+        
+    <string name="exit"> Quitter </string>
+        
+    <string name="next_word"> mot suivant </string>
+
+        
+    <string-array name="word_lists_for_learn_array">
+                
+        <item> 20 bois plus couramment utilisés </item>
+                
+        <item> 50 bois plus couramment utilisés </item>
+                
+        <item> 100 bois plus couramment utilisés </item>
+                
+        <item> tous les mots, sauf rarement utilisé </item>
+                
+        <item> tous les mots </item>
+            
+    </string-array>
+
+</resources>

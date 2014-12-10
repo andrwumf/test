@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="verb_form_183">beget,begot/begat,begotten/begot</string>
+    <string name="verb_form_184">beseech,besought,besought</string>
+    <string name="verb_form_185">bet,bet,bet</string>
+    <string name="verb_form_186">beware,(none),(none)</string>
+    <string name="verb_form_187">bless,blest,blest</string>
+    <string name="verb_form_189">cleave,clove/cleft,cloven/cleft</string>
+    <string name="verb_form_197">hew,hewed/hew,hewn/hewed</string>
+    <string name="verb_form_200">lade,laded,laden/laded</string>
+    <string name="verb_form_208">plead,pleaded/pled,pleaded/pled</string>
+    <string name="verb_form_216">slit,slit,slit</string>
+    <string name="verb_form_217">sneak,sneaked/snuck,sneaked/snuck</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Unregelmäßige Verben in Englisch"</string>
+    <string-array name="rivers">
+        <item>"Wordlist"</item>
+        <item>"Ausbildung"</item>
+        <item>"Einstellungen"</item>
+    </string-array>
+    <string name="choise_verb_for_training">"Wählen Sie Worte für die Ausbildung"</string>
+    <string name="cancel">"Stornierung"</string>
+    <string name="all_words">Alle Wörter (183 Worte)</string>
+    <string name="only_often_met_words">Nur die am häufigsten verwendeten. (49 Wörter)</string>
+</resources>

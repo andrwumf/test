@@ -1,0 +1,5 @@
+# Created by .gitignore support plugin (hsz.mobi)
+MyApplication2.iml
+local.properties
+.idea
+app/keystore.jks

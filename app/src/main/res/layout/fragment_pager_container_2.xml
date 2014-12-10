@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <LinearLayout
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/incorrect_words"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="@color/popular_less"
+                android:textSize="19dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="/"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/correct_words"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textColor="@color/popular_more"
+                android:textSize="19dp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/next_button"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:padding="8dp"
+            android:text="@string/next_word"
+            android:textSize="19dp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="test"
+            android:textSize="19dp" />
+
+    </LinearLayout>
+
+    <com.template.mlevytskiy.ui.widget.NonSwipeableViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="1dp" />
+
+</LinearLayout>
+

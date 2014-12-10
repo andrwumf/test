@@ -1,0 +1,258 @@
+<resources>
+
+    <string name="verb_form_4_same_0_translate">"Refrain"</string>
+    <string name="verb_form_4_same_2_translate">"unterdrücken"</string>
+
+    <string name="verb_form_5_same_0_translate">"Bully"</string>
+
+    <string name="verb_form_6_same_0_translate">"nicht geeignet"</string>
+
+    <string name="verb_form_10_same_1_translate">"unbend"</string>
+
+    <string name="verb_form_13_same_0_translate">"Freisetzung"</string>
+
+    <string name="verb_form_16_same_0_translate">"aufblasen"</string>
+
+    <string name="verb_form_17_same_0_translate">"Flush, erscheinen razryvatsya"</string>
+    <string name="verb_form_17_same_1_translate">"umbrechen"</string>
+
+    <string name="verb_form_21_same_0_translate">"bauen auf, bauen"</string>
+    <string name="verb_form_21_same_1_translate">"wieder aufbauen"</string>
+
+    <!--<string name="verb_form_24">buy,bought,bought</string>-->
+    <string name="verb_form_24_same_1_translate">"kaufen zu viel"</string>
+    <string name="verb_form_24_same_2_translate">"underbuy"</string>
+
+    <string name="verb_form_26_same_0_translate">"Sendung, neu zu verteilen"</string>
+    <string name="verb_form_26_same_2_translate">"antizipieren, voraussagen"</string>
+    <string name="verb_form_26_same_3_translate">"fehlbesetzen"</string>
+    <string name="verb_form_26_same_4_translate">"Abdeckung, in der Nähe"</string>
+    <string name="verb_form_26_same_7_translate">"umgestalten, wieder aufbauen"</string>
+    <string name="verb_form_26_same_9_translate">"im Fernsehen übertragen"</string>
+    <string name="verb_form_26_same_10_translate">"Typumwandlung"</string>
+
+    <string name="verb_form_30_same_1_translate">"entkleiden"</string>
+
+    <string name="verb_form_31_same_0_translate">"überwinden"</string>
+
+    <string name="verb_form_34_same_4_translate">"Remake"</string>
+    <string name="verb_form_34_same_5_translate">"Pflaume unterbieten"</string>
+
+    <!--<string name="verb_form_36">deal,dealt,dealt</string>-->
+    <string name="verb_form_36_same_0_translate">"misdo"</string>
+    <string name="verb_form_36_same_1_translate">"relet"</string>
+
+    <string name="verb_form_38_same_1_translate">"misdo"</string>
+    <string name="verb_form_38_same_2_translate">"überwinden"</string>
+    <string name="verb_form_38_same_3_translate">"overdo overdo"</string>
+    <string name="verb_form_38_same_4_translate">"umgestalten"</string>
+    <string name="verb_form_38_same_5_translate">"stornieren"</string>
+    <string name="verb_form_38_same_6_translate">"underdo"</string>
+
+    <string name="verb_form_39_same_0_translate">"outdraw"</string>
+    <string name="verb_form_39_same_1_translate">"übertreiben"</string>
+    <string name="verb_form_39_same_2_translate">"neu entwerfen"</string>
+    <string name="verb_form_39_same_4_translate">"Display, entfernen"</string>
+
+    <string name="verb_form_41_same_1_translate">"over"</string>
+
+    <string name="verb_form_42_same_0_translate">"überflügeln"</string>
+    <string name="verb_form_42_same_1_translate">"zaganyat, Überarbeitung"</string>
+
+    <string name="verb_form_44_same_0_translate">"zu viel essen"</string>
+    <string name="verb_form_44_same_1_translate">"nedoest"</string>
+
+    <string name="verb_form_45_same_0_translate">"geschehen, wird geschehen,"</string>
+
+    <string name="verb_form_46_same_0_translate">"stillen"</string>
+    <string name="verb_form_46_same_1_translate">"vertraut der Kraft"</string>
+    <string name="verb_form_46_same_2_translate">"Hand-Feed"</string>
+    <string name="verb_form_46_same_4_translate">"überfüttern"</string>
+    <string name="verb_form_46_same_6_translate">"gängeln"</string>
+    <string name="verb_form_46_same_7_translate">"unterernährt, undernourish"</string>
+
+
+    <string name="verb_form_53_same_0_translate">"Fliegen im Flug überholen"</string>
+    <string name="verb_form_53_same_1_translate">"zu fliegen, fliegen weiter"</string>
+
+    <string name="verb_form_60_same_0_translate">"entfrieren"</string>
+    <string name="verb_form_60_same_1_translate">"wieder einfrieren"</string>
+    <string name="verb_form_60_same_2_translate">"entfrosten"</string>
+
+    <string name="verb_form_61_same_0_translate">"erzeugen"</string>
+
+    <string name="verb_form_63_same_0_translate">"vergeben"</string>
+    <string name="verb_form_63_same_1_translate">"Fehlzündung, misgive"</string>
+
+    <string name="verb_form_64_same_1_translate">"verweigern"</string>
+    <string name="verb_form_64_same_2_translate">"verweigern"</string>
+    <string name="verb_form_64_same_4_translate">"erfahren"</string>
+
+    <string name="verb_form_66_same_0_translate">"entwachsen"</string>
+    <string name="verb_form_66_same_1_translate">"überwuchert, überwuchern"</string>
+
+    <string name="verb_form_67_same_0_translate">"Überhang"</string>
+
+    <string name="verb_form_69_same_0_translate">"mishear"</string>
+    <string name="verb_form_69_same_1_translate">"lauschen"</string>
+
+    <string name="verb_form_72_same_0_translate">"betrachten"</string>
+    <string name="verb_form_72_same_3_translate">"Unterstützung"</string>
+    <string name="verb_form_72_same_4_translate">"halten"</string>
+
+    <string name="verb_form_77_same_1_translate">"vorhersehen"</string>
+
+    <string name="verb_form_78_same_3_translate">"investieren"</string>
+    <string name="verb_form_78_same_4_translate">"interlay"</string>
+    <string name="verb_form_78_same_5_translate">"zu legen, verlieren"</string>
+    <string name="verb_form_78_same_7_translate">"verbringen"</string>
+    <string name="verb_form_78_same_8_translate">"Überlappung Abdeckung"</string>
+    <string name="verb_form_78_same_9_translate">"Verschiebung"</string>
+    <string name="verb_form_78_same_10_translate">"Unterlage"</string>
+    <string name="verb_form_78_same_13_translate">"auflauern"</string>
+
+    <string name="verb_form_79_same_3_translate">"irre"</string>
+
+    <string name="verb_form_81_same_3_translate">"springen, springen"</string>
+
+    <string name="verb_form_82_same_2_translate">"wieder lernen"</string>
+    <string name="verb_form_82_same_3_translate">"verlernen, verlernen"</string>
+
+    <string name="verb_form_85_same_1_translate">"untervermieten"</string>
+    <string name="verb_form_85_same_2_translate">"untervermieten"</string>
+
+    <string name="verb_form_86_same_2_translate">"auftragen"</string>
+    <string name="verb_form_86_same_3_translate">"zugrunde liegen"</string>
+
+    <string name="verb_form_87_same_0_translate">"Rücklicht"</string>
+    <string name="verb_form_87_same_2_translate">"Wiederzünd, wieder anzünden"</string>
+
+    <string name="verb_form_89_same_0_translate">"umgestalten"</string>
+    <string name="verb_form_89_same_1_translate">"zerstören"</string>
+
+    <string name="verb_form_93_same_0_translate">"überbezahlen"</string>
+    <string name="verb_form_93_same_1_translate">"im Voraus bezahlen"</string>
+    <string name="verb_form_93_same_2_translate">"zurückzuzahlen, Rückkehr, entschädigen"</string>
+    <string name="verb_form_93_same_3_translate">"underpay"</string>
+
+    <string name="verb_form_95_same_0_translate">"eingeben"</string>
+    <string name="verb_form_95_same_1_translate">"zeigen"</string>
+
+    <string name="verb_form_97_same_1_translate">"Lippenlesen"</string>
+    <string name="verb_form_97_same_2_translate">"Lesefehler, miss"</string>
+    <string name="verb_form_97_same_3_translate">"Korrektur gelesen"</string>
+    <string name="verb_form_97_same_4_translate">"nachlesen"</string>
+    <string name="verb_form_97_same_5_translate">"vom Blatt lesen"</string>
+
+    <string name="verb_form_101_same_0_translate">"vor, das Überholen"</string>
+
+
+    <string name="verb_form_103_same_0_translate">"entstehen"</string>
+    <string name="verb_form_103_same_1_translate">"steigen, steigen"</string>
+
+    <string name="verb_form_104_same_0_translate">"Vorzeichen"</string>
+    <string name="verb_form_104_same_1_translate">"treffen destillieren"</string>
+    <string name="verb_form_104_same_3_translate">"Wiederholung"</string>
+
+    <string name="verb_form_106_same_1_translate">"leugnen, widersprechen"</string>
+
+    <string name="verb_form_107_same_1_translate">"vorhersehen"</string>
+    <string name="verb_form_107_same_3_translate">"beobachten, überwachen"</string>
+    <string name="verb_form_107_same_4_translate">"prüfen"</string>
+
+    <string name="verb_form_109_same_0_translate">"gut prodavatsya"</string>
+    <string name="verb_form_109_same_1_translate">"triebenen"</string>
+    <string name="verb_form_109_same_2_translate">"wieder verkaufen"</string>
+    <string name="verb_form_109_same_3_translate">"unter Kosten zu verkaufen"</string>
+
+    <string name="verb_form_110_same_1_translate">"erneut senden"</string>
+
+    <string name="verb_form_111_same_0_translate">"belagern, umgeben"</string>
+    <string name="verb_form_111_same_1_translate">"manuell wählen (anderes Telefon)"</string>
+    <string name="verb_form_111_same_2_translate">"Fügen Sie investieren"</string>
+    <string name="verb_form_111_same_4_translate">"abzusetzen kompensieren"</string>
+    <string name="verb_form_111_same_5_translate">"Neigungs"</string>
+    <string name="verb_form_111_same_6_translate">"preestablish"</string>
+    <string name="verb_form_111_same_7_translate">"wiederherstellen"</string>
+    <string name="verb_form_111_same_8_translate">"Verstimmung, stören"</string>
+
+
+    <string name="verb_form_112_same_1_translate">"oversew"</string>
+
+    <string name="verb_form_117_same_1_translate">"überschatten"</string>
+
+    <string name="verb_form_119_same_1_translate">"Fehl"</string>
+    <string name="verb_form_119_same_2_translate">"reshoot"</string>
+    <string name="verb_form_119_same_3_translate">"Unter"</string>
+
+    <string name="verb_form_120_same_0_translate">"vorhersagen"</string>
+
+    <string name="verb_form_125_same_0_translate">"babysitten"</string>
+
+    <string name="verb_form_127_same_0_translate">"verschlafen"</string>
+
+    <string name="verb_form_128_same_0_translate">"Rückzug"</string>
+
+    <!--<string name="verb_form_136">spell,spelt,spelt</string>-->
+    <string name="verb_form_136_same_0_translate">"falsch schreiben"</string>
+
+    <!--<string name="verb_form_137">spend,spent,spent</string>-->
+    <string name="verb_form_137_same_1_translate">"misspend"</string>
+    <string name="verb_form_137_same_2_translate">"outspend"</string>
+    <string name="verb_form_137_same_3_translate">"zu viel ausgeben"</string>
+
+    <!--<string name="verb_form_145">stand,stood,stood</string>-->
+    <string name="verb_form_145_same_1_translate">"missverstehen"</string>
+    <string name="verb_form_145_same_2_translate">"über"</string>
+    <string name="verb_form_145_same_3_translate">"verstehen"</string>
+    <string name="verb_form_145_same_5_translate">"standhalten"</string>
+
+    <!--<string name="verb_form_150">stride,strode,stridden</string>-->
+    <string name="verb_form_150_same_0_translate">"bestride"</string>
+
+    <!--<string name="verb_form_155">swear,swore,sworn</string>-->
+    <string name="verb_form_155_same_0_translate">"abschwören"</string>
+
+    <!--<string name="verb_form_156">sweep,swept,swept</string>-->
+    <string name="verb_form_156_same_0_translate">"upsweep"</string>
+
+    <!--<string name="verb_form_160">take,took,taken</string>-->
+    <string name="verb_form_160_same_0_translate">"Urlaubsort"</string>
+    <string name="verb_form_160_same_2_translate">"err"</string>
+    <string name="verb_form_160_same_3_translate">"aufholen, überholen"</string>
+    <string name="verb_form_160_same_4_translate">"teilnehmen"</string>
+    <string name="verb_form_160_same_5_translate">"relet"</string>
+    <string name="verb_form_160_same_6_translate">"unternehmen"</string>
+
+    <!--<string name="verb_form_163">tell,told,told</string>-->
+    <string name="verb_form_163_same_0_translate">"vorhersagen"</string>
+    <string name="verb_form_163_same_1_translate">"proben"</string>
+
+    <!--<string name="verb_form_164">think,thought,thought</string>-->
+    <string name="verb_form_164_same_0_translate">"überlisten"</string>
+    <string name="verb_form_164_same_1_translate">"Rezension"</string>
+
+    <!--<string name="verb_form_166">throw,threw,thrown</string>-->
+    <string name="verb_form_166_same_1_translate">"wegwerfen"</string>
+    <string name="verb_form_166_same_2_translate">"stürzen"</string>
+    <string name="verb_form_166_same_4_translate">"upthrow"</string>
+
+    <!--<string name="verb_form_167">thrust,thrust,thrust</string>-->
+    <string name="verb_form_167_same_0_translate">"wegwerfen"</string>
+
+    <!--<string name="verb_form_172">wake,woke,woken</string>-->
+    <string name="verb_form_172_same_0_translate">"wecken"</string>
+
+    <!--<string name="verb_form_173">wear,wore,worn</string>-->
+    <string name="verb_form_173_same_1_translate">"tragen"</string>
+
+    <!--<string name="verb_form_174">weave,wove,woven</string>-->
+    <string name="verb_form_174_same_0_translate">"verweben"</string>
+    <string name="verb_form_174_same_1_translate">"entflechten"</string>
+
+    <!--<string name="verb_form_182">write,wrote,written</string>-->
+    <string name="verb_form_182_same_3_translate">"umschreiben"</string>
+    <string name="verb_form_182_same_4_translate">"umschreiben"</string>
+    <string name="verb_form_182_same_5_translate">"sicherzustellen abonnieren"</string>
+
+</resources>

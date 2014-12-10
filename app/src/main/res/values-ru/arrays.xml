@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="favorites_float_menu_1">
+        <item>Знаю</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="favorites_float_menu_2">
+        <item>На повторение</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="main_navigation">
+        <item>iVerbs</item>
+        <item>Учить</item>
+        <item>Играть</item>
+    </string-array>
+    <string-array name="games_array">
+        <item>Спринт</item>
+        <item>Орфография</item>
+    </string-array>
+</resources>
