@@ -1,6 +1,5 @@
-apply plugin: 'com.android.application'
+apply plugin: 'android'
 apply plugin: 'hugo'
-apply plugin: 'android-test'
 
 android {
 
@@ -13,18 +12,14 @@ android {
         exclude 'META-INF/DEPENDENCIES'
     }
 
-    compileSdkVersion 20
-    buildToolsVersion "20.0.0"
+    compileSdkVersion "Google Inc.:Google APIs:21"
+    buildToolsVersion '21.1.2'
 
     defaultConfig {
         minSdkVersion 9
         targetSdkVersion 21
         versionCode 6
         versionName "1.05"
-        testPackageName "com.template.mlevytskiy.test"
-        testInstrumentationRunner "android.test.InstrumentationTestRunner"
-        testHandleProfiling true
-        testFunctionalTest true
     }
 
     signingConfigs {
@@ -39,18 +34,13 @@ android {
         }
     }
 
-    testOptions {
-        resultsDir = "$project.buildDir/foo/results"
-        reportDir = "$project.buildDir/foo/report"
-    }
-
     buildTypes {
         debug {
-            runProguard false
+            minifyEnabled false
         }
 
         release {
-            runProguard false
+            minifyEnabled false
             debuggable false
             signingConfig signingConfigs.myConfig
         }
@@ -61,7 +51,7 @@ android {
 
         }
         free {
-            packageName "irregular.verbs.free"
+            applicationId "irregular.verbs.free"
         }
     }
 
@@ -71,12 +61,11 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:+'
+    compile 'com.android.support:appcompat-v7:+@aar'
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'commons-io:commons-io:2.2@jar'
-    compile 'com.android.support:support-v4:+@jar'
+    compile 'com.android.support:support-v4:+'
     compile 'commons-lang:commons-lang:2.3@jar'
     compile 'eu.inmite.android.lib:android-styled-dialogs:+@aar'
     compile 'com.nineoldandroids:library:2.4.0'
-    androidTestCompile 'com.google.guava:guava:+'
 }

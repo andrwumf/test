@@ -67,11 +67,9 @@ public class MainActivity extends SideMenuActivity implements ChangeLanguage {
     protected void initFragments() {
         mMenuFragments = new ArrayList<AnyFragment>();
         mMenuFragments.add(new IrregularVerbsFragment());
-//        mMenuFragments.add(new TrainingCardFragment());
         mMenuFragments.add(new TrainingMainFragment());
         mMenuFragments.add(new SettingsFragment());
-        mMenuFragments.add(new StoriesFragment());
-//        otherFragments.add(new TrainingCardFragment());
+//        mMenuFragments.add(new StoriesFragment());
     }
 
     public void onClickWriteWordTrainingStart(View view) {

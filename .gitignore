@@ -4,3 +4,6 @@ local.properties
 .idea
 app/keystore.jks
 irregular_verbs.iml
+gradle
+gradlew
+app/app.iml

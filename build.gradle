@@ -5,9 +5,8 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:+'
-        classpath 'com.jakewharton.hugo:hugo-plugin:1.0.1'
-        classpath 'com.squareup.gradle:gradle-android-test-plugin:+'
+        classpath 'com.android.tools.build:gradle:1.0.0'
+        classpath 'com.jakewharton.hugo:hugo-plugin:1.1.0'
     }
 }
 

@@ -4,7 +4,6 @@ import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
-
 import com.template.mlevytskiy.R;
 import com.template.mlevytskiy.util.UnitUtils;
 
@@ -29,11 +28,10 @@ public class NavigationDrawerAdapter extends ArrayAdapter<String> {
 
     private static String[] getMenuItems(Context context) {
         String[] differentLanguagesStrs = context.getResources().getStringArray(R.array.rivers);
-        String[] strs = new String[differentLanguagesStrs.length + 1];
+        String[] strs = new String[differentLanguagesStrs.length];
         for (int i = 0; i < differentLanguagesStrs.length; i++) {
             strs[i] = differentLanguagesStrs[i];
         }
-        strs[differentLanguagesStrs.length] = "Irregular verbs stories  ;)";
         return strs;
     }
 
