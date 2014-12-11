@@ -1,24 +1,20 @@
 package com.template.mlevytskiy.ui.trainingModule;
 
-import android.app.Activity;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentTransaction;
+import android.media.MediaPlayer;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.template.mlevytskiy.R;
-import com.template.mlevytskiy.common.AnyFragment;
-import com.template.mlevytskiy.ui.MainActivity;
+import com.template.mlevytskiy.util.PlayUtil;
 import com.template.mlevytskiy.util.RandomInt;
 import com.template.mlevytskiy.vo.IrregularVerb;
+
 import java.util.List;
 
 /**
@@ -60,6 +56,15 @@ public class TrainingWriteWordPagerAdapter extends PagerAdapter {
     public Object instantiateItem(final ViewGroup collection, final int i) {
         if ( i < list.size()) {
             final View view = View.inflate(collection.getContext(), R.layout.pager_adapter_training_write_word, null);
+
+            ImageButton playNow = (ImageButton) view.findViewById(R.id.button_play_now);
+            playNow.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    IrregularVerb current = list.get(i);
+                    PlayUtil.play(new MediaPlayer(), current.getMp3Raw(), view.getContext());
+                }
+            });
 
             correctWords.setText(String.valueOf(correctWordsInt));
             incorrectWords.setText(String.valueOf(incorrectWordsInt));

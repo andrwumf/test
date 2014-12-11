@@ -3,8 +3,6 @@ package com.template.mlevytskiy.ui.irregularVerbModule;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Bundle;
-import com.template.mlevytskiy.R;
-import com.template.mlevytskiy.common.AnyFragment;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.widget.SearchView;
 import android.text.TextUtils;
@@ -14,14 +12,18 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
+
+import com.template.mlevytskiy.R;
+import com.template.mlevytskiy.common.AnyFragment;
 import com.template.mlevytskiy.common.memory.MemoryCommunicator;
 import com.template.mlevytskiy.memory.MemoryKey;
 import com.template.mlevytskiy.ui.widget.ChoiceWordGroupDialog;
+import com.template.mlevytskiy.util.PlayUtil;
 import com.template.mlevytskiy.util.search.SearchQuery;
 import com.template.mlevytskiy.vo.IrregularVerb;
 import com.template.mlevytskiy.vo.MorePopularSetting;
 import com.template.mlevytskiy.vo.SameIrregularVerb;
-import java.io.IOException;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -63,19 +65,7 @@ public class IrregularVerbsFragment extends AnyFragment {
 
     public void onClickVolumeImageButton(View view) {
         Uri rawMp3 = (Uri) view.getTag();
-        mPlayer.reset();
-        try {
-            try {
-                mPlayer.setDataSource(view.getContext(), rawMp3);
-            } catch (IllegalStateException e) {
-                mPlayer.reset();
-                mPlayer.setDataSource(view.getContext(), rawMp3);
-            }
-            mPlayer.prepare();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        mPlayer.start();
+        PlayUtil.play(mPlayer, rawMp3, view.getContext());
     }
 
     @Override
