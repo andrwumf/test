@@ -4,6 +4,8 @@ import android.view.View;
 
 /**
  * Created by Макс on 21.04.2014.
+ *
+ *
  */
 public abstract class AdapterItemCreateHelper<T> {
 
